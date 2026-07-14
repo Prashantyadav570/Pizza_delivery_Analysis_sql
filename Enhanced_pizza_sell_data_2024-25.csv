@@ -1,0 +1,1004 @@
+Order_ID,Restaurant_Name,Location,Order_Date,Order_Time,Deliver_status,Delivery_Duration,Pizza_Size,Pizza_Type,Distance,Traffic_Level,Payment_Method,Is_Peak_Hour,Is_Weekend,Order_Month,Estimated_Duration ,Delay,Delayed_status
+ORD001,Domino's,"New York, NY",05-01-2024,18:30:00,Fast,15,M,Veg,2.5,Medium,Card,1,0,January,6,9,On Time
+ORD002,Papa John's,"Los Angeles, CA",14-02-2024,20:00:00,Average,25,L,Non-Veg,5,High,Wallet,1,0,February,12,13,On Time
+ORD003,Little Caesars,"Chicago, IL",21-03-2024,12:15:00,Fast,20,S,Vegan,3,Low,UPI,0,0,March,7.2,12.8,On Time
+ORD004,Pizza Hut,"Miami, FL",10-04-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Medium,Cash,1,0,April,10.8,14.2,On Time
+ORD005,Marco's Pizza,"Dallas, TX",05-05-2024,13:00:00,Fast,20,M,Non-Veg,2,High,Card,0,1,May,4.8,15.2,On Time
+ORD006,Domino's,"New York, NY",06-01-2024,19:00:00,Fast,20,M,Non-Veg,3,High,Card,1,1,January,7.2,12.8,On Time
+ORD007,Papa John's,"Los Angeles, CA",07-01-2024,20:15:00,Average,25,L,Veg,4.5,Medium,UPI,1,1,January,10.8,14.2,On Time
+ORD008,Little Caesars,"Chicago, IL",08-01-2024,18:30:00,Fast,20,S,Vegan,2,Low,Cash,1,0,January,4.8,15.2,On Time
+ORD009,Pizza Hut,"Miami, FL",09-01-2024,19:45:00,Average,25,XL,Cheese Burst,5,High,Wallet,1,0,January,12,13,On Time
+ORD011,Domino's,"San Francisco, CA",11-01-2024,17:30:00,Fast,20,L,Veg,4,Low,UPI,0,0,January,9.6,10.4,On Time
+ORD012,Papa John's,"Houston, TX",12-01-2024,19:00:00,Average,25,M,Non-Veg,3,Medium,Cash,1,0,January,7.2,17.8,On Time
+ORD013,Little Caesars,"Phoenix, AZ",13-01-2024,18:15:00,Fast,20,S,Vegan,2.5,High,Wallet,1,1,January,6,14,On Time
+ORD014,Pizza Hut,"Atlanta, GA",14-01-2024,20:30:00,Average,25,XL,Cheese Burst,4,Low,Card,1,1,January,9.6,15.4,On Time
+ORD015,Marco's Pizza,"Seattle, WA",15-01-2024,14:00:00,Fast,20,M,Non-Veg,3,Medium,UPI,0,0,January,7.2,12.8,On Time
+ORD016,Domino's,"Denver, CO",16-01-2024,19:45:00,Average,25,L,Veg,4.5,High,Cash,1,0,January,10.8,14.2,On Time
+ORD017,Papa John's,"Boston, MA",17-01-2024,18:30:00,Average,25,S,Vegan,2,Low,Wallet,1,0,January,4.8,20.2,Delayed
+ORD018,Little Caesars,"Dallas, TX",18-01-2024,20:00:00,Fast,20,M,Non-Veg,3.5,Medium,Card,1,0,January,8.4,11.6,On Time
+ORD019,Pizza Hut,"Los Angeles, CA",19-01-2024,19:15:00,Average,25,XL,Cheese Burst,4,High,UPI,1,0,January,9.6,15.4,On Time
+ORD020,Marco's Pizza,"Chicago, IL",20-01-2024,13:30:00,Fast,20,M,Non-Veg,3,Low,Cash,0,1,January,7.2,12.8,On Time
+ORD021,Domino's,"Miami, FL",21-01-2024,18:45:00,Average,25,L,Veg,4.5,Medium,Wallet,1,1,January,10.8,14.2,On Time
+ORD022,Papa John's,"Dallas, TX",22-01-2024,20:00:00,Average,25,S,Vegan,2,High,Card,1,0,January,4.8,20.2,Delayed
+ORD023,Little Caesars,"Houston, TX",23-01-2024,19:30:00,Fast,20,M,Non-Veg,3.5,Low,UPI,1,0,January,8.4,11.6,On Time
+ORD024,Pizza Hut,"Phoenix, AZ",24-01-2024,18:15:00,Average,25,XL,Cheese Burst,4,Medium,Cash,1,0,January,9.6,15.4,On Time
+ORD025,Marco's Pizza,"Atlanta, GA",25-01-2024,14:30:00,Fast,20,M,Non-Veg,3,High,Wallet,0,0,January,7.2,12.8,On Time
+ORD026,Domino's,"Seattle, WA",26-01-2024,20:00:00,Average,25,L,Veg,4.5,Low,Card,1,0,January,10.8,14.2,On Time
+ORD027,Papa John's,"Denver, CO",27-01-2024,19:15:00,Average,25,S,Vegan,2,Medium,UPI,1,1,January,4.8,20.2,Delayed
+ORD028,Little Caesars,"Boston, MA",28-01-2024,18:30:00,Fast,20,M,Non-Veg,3.5,High,Cash,1,1,January,8.4,11.6,On Time
+ORD029,Pizza Hut,"Chicago, IL",29-01-2024,20:00:00,Average,25,XL,Cheese Burst,4,Low,Wallet,1,0,January,9.6,15.4,On Time
+ORD030,Marco's Pizza,"Miami, FL",30-01-2024,13:15:00,Fast,20,M,Non-Veg,3,Medium,Card,0,0,January,7.2,12.8,On Time
+ORD031,Domino's,"Los Angeles, CA",01-02-2024,19:45:00,Average,25,L,Veg,4.5,High,UPI,1,0,February,10.8,14.2,On Time
+ORD032,Papa John's,"Phoenix, AZ",02-02-2024,18:00:00,Average,25,S,Vegan,2,Low,Cash,1,0,February,4.8,20.2,Delayed
+ORD033,Little Caesars,"Atlanta, GA",03-02-2024,20:30:00,Average,25,M,Non-Veg,3.5,Medium,Wallet,1,1,February,8.4,16.6,On Time
+ORD034,Pizza Hut,"Dallas, TX",04-02-2024,14:15:00,Fast,20,XL,Cheese Burst,4,High,Card,0,1,February,9.6,10.4,On Time
+ORD035,Marco's Pizza,"Seattle, WA",05-02-2024,19:00:00,Average,25,M,Non-Veg,3,Low,UPI,1,0,February,7.2,17.8,On Time
+ORD036,Domino's,"Houston, TX",06-02-2024,18:45:00,Average,25,L,Veg,4.5,Medium,Card,1,0,February,10.8,14.2,On Time
+ORD037,Papa John's,"Phoenix, AZ",07-02-2024,20:00:00,Average,25,M,Non-Veg,3,High,UPI,1,0,February,7.2,17.8,On Time
+ORD038,Little Caesars,"Atlanta, GA",08-02-2024,19:30:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,February,6,14,On Time
+ORD039,Pizza Hut,"Dallas, TX",09-02-2024,18:15:00,Average,25,XL,Cheese Burst,4,Medium,Wallet,1,0,February,9.6,15.4,On Time
+ORD040,Marco's Pizza,"Seattle, WA",10-02-2024,14:30:00,Fast,20,M,Non-Veg,3.5,High,Card,0,1,February,8.4,11.6,On Time
+ORD041,Domino's,"Denver, CO",11-02-2024,19:00:00,Fast,20,L,Veg,4,Low,UPI,1,1,February,9.6,10.4,On Time
+ORD042,Papa John's,"Boston, MA",12-02-2024,20:15:00,Average,25,S,Vegan,2,Medium,Cash,1,0,February,4.8,20.2,Delayed
+ORD043,Little Caesars,"Dallas, TX",13-02-2024,18:30:00,Fast,20,M,Non-Veg,3,High,Wallet,1,0,February,7.2,12.8,On Time
+ORD044,Pizza Hut,"Los Angeles, CA",14-02-2024,19:45:00,Average,25,XL,Cheese Burst,5,Low,Card,1,0,February,12,13,On Time
+ORD045,Marco's Pizza,"Chicago, IL",15-02-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Medium,UPI,0,0,February,8.4,11.6,On Time
+ORD046,Domino's,"Miami, FL",16-02-2024,18:30:00,Fast,20,L,Veg,4,High,Cash,1,0,February,9.6,10.4,On Time
+ORD047,Papa John's,"Dallas, TX",17-02-2024,20:00:00,Average,25,M,Non-Veg,3,Low,Wallet,1,1,February,7.2,17.8,On Time
+ORD048,Little Caesars,"Houston, TX",18-02-2024,19:15:00,Fast,20,S,Vegan,2.5,Medium,Card,1,1,February,6,14,On Time
+ORD049,Pizza Hut,"Phoenix, AZ",19-02-2024,20:30:00,Average,25,XL,Cheese Burst,4.5,High,UPI,1,0,February,10.8,14.2,On Time
+ORD050,Marco's Pizza,"Atlanta, GA",20-02-2024,14:45:00,Fast,20,M,Non-Veg,3,Low,Cash,0,0,February,7.2,12.8,On Time
+ORD051,Domino's,"Seattle, WA",21-02-2024,19:00:00,Fast,20,L,Veg,4,Medium,Wallet,1,0,February,9.6,10.4,On Time
+ORD052,Papa John's,"Denver, CO",22-02-2024,20:15:00,Average,25,S,Vegan,2,High,Card,1,0,February,4.8,20.2,Delayed
+ORD053,Little Caesars,"Boston, MA",23-02-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,UPI,1,0,February,8.4,11.6,On Time
+ORD054,Pizza Hut,"Chicago, IL",24-02-2024,19:45:00,Average,25,XL,Cheese Burst,4,Medium,Cash,1,1,February,9.6,15.4,On Time
+ORD055,Marco's Pizza,"Miami, FL",25-02-2024,13:00:00,Fast,20,M,Non-Veg,3,High,Wallet,0,1,February,7.2,12.8,On Time
+ORD056,Domino's,"Los Angeles, CA",26-02-2024,18:30:00,Fast,20,L,Veg,4.5,Low,Card,1,0,February,10.8,9.2,On Time
+ORD057,Papa John's,"Phoenix, AZ",27-02-2024,20:00:00,Average,25,M,Non-Veg,3,High,UPI,1,0,February,7.2,17.8,On Time
+ORD058,Little Caesars,"Atlanta, GA",28-02-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,February,6,14,On Time
+ORD059,Pizza Hut,"Dallas, TX",29-02-2024,20:30:00,Average,25,XL,Cheese Burst,4,Medium,Wallet,1,0,February,9.6,15.4,On Time
+ORD060,Marco's Pizza,"Seattle, WA",01-03-2024,14:45:00,Fast,20,M,Non-Veg,3.5,High,Card,0,0,March,8.4,11.6,On Time
+ORD061,Domino's,"Denver, CO",02-03-2024,19:00:00,Fast,20,L,Veg,4,Low,UPI,1,1,March,9.6,10.4,On Time
+ORD062,Papa John's,"Boston, MA",03-03-2024,20:15:00,Average,25,S,Vegan,2,Medium,Cash,1,1,March,4.8,20.2,Delayed
+ORD063,Little Caesars,"Dallas, TX",04-03-2024,18:30:00,Fast,20,M,Non-Veg,3,High,Wallet,1,0,March,7.2,12.8,On Time
+ORD064,Pizza Hut,"Los Angeles, CA",05-03-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Card,1,0,March,10.8,14.2,On Time
+ORD065,Marco's Pizza,"Chicago, IL",06-03-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Low,Card,0,0,March,8.4,11.6,On Time
+ORD066,Domino's,"Miami, FL",07-03-2024,18:30:00,Fast,20,L,Veg,4,High,Card,1,0,March,9.6,10.4,On Time
+ORD067,Papa John's,"Dallas, TX",08-03-2024,20:00:00,Average,25,M,Non-Veg,3.5,Medium,UPI,1,0,March,8.4,16.6,On Time
+ORD068,Little Caesars,"Chicago, IL",09-03-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,March,6,14,On Time
+ORD069,Pizza Hut,"Phoenix, AZ",10-03-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,High,Wallet,1,1,March,10.8,14.2,On Time
+ORD070,Marco's Pizza,"Atlanta, GA",11-03-2024,13:00:00,Fast,20,M,Non-Veg,3,Low,Card,0,0,March,7.2,12.8,On Time
+ORD071,Domino's,"Seattle, WA",12-03-2024,18:30:00,Fast,20,L,Veg,4,Medium,UPI,1,0,March,9.6,10.4,On Time
+ORD072,Papa John's,"Denver, CO",13-03-2024,20:15:00,Average,25,S,Vegan,2,High,Cash,1,0,March,4.8,20.2,Delayed
+ORD073,Little Caesars,"Boston, MA",14-03-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,March,8.4,11.6,On Time
+ORD074,Pizza Hut,"Chicago, IL",15-03-2024,19:45:00,Average,25,XL,Cheese Burst,4,Medium,Card,1,0,March,9.6,15.4,On Time
+ORD075,Marco's Pizza,"Miami, FL",16-03-2024,13:00:00,Fast,20,M,Non-Veg,3,High,UPI,0,1,March,7.2,12.8,On Time
+ORD076,Domino's,"Los Angeles, CA",17-03-2024,18:30:00,Fast,20,L,Veg,4.5,Low,Cash,1,1,March,10.8,9.2,On Time
+ORD077,Papa John's,"Phoenix, AZ",18-03-2024,20:00:00,Average,25,M,Non-Veg,3,High,Wallet,1,0,March,7.2,17.8,On Time
+ORD078,Little Caesars,"Atlanta, GA",19-03-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Card,1,0,March,6,14,On Time
+ORD079,Pizza Hut,"Dallas, TX",20-03-2024,19:45:00,Average,25,XL,Cheese Burst,4,Medium,UPI,1,0,March,9.6,15.4,On Time
+ORD080,Marco's Pizza,"Seattle, WA",21-03-2024,13:00:00,Fast,20,M,Non-Veg,3.5,High,Cash,0,0,March,8.4,11.6,On Time
+ORD081,Domino's,"Denver, CO",22-03-2024,18:30:00,Fast,20,L,Veg,4,Low,Wallet,1,0,March,9.6,10.4,On Time
+ORD082,Papa John's,"Boston, MA",23-03-2024,20:15:00,Average,25,S,Vegan,2,High,Card,1,1,March,4.8,20.2,Delayed
+ORD083,Little Caesars,"Dallas, TX",24-03-2024,18:30:00,Fast,20,M,Non-Veg,3,High,UPI,1,1,March,7.2,12.8,On Time
+ORD084,Pizza Hut,"Los Angeles, CA",25-03-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,March,10.8,14.2,On Time
+ORD085,Marco's Pizza,"Chicago, IL",26-03-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Medium,Wallet,0,0,March,8.4,11.6,On Time
+ORD086,Domino's,"Miami, FL",27-03-2024,18:30:00,Fast,20,L,Veg,4,High,Card,1,0,March,9.6,10.4,On Time
+ORD087,Papa John's,"Dallas, TX",28-03-2024,20:00:00,Average,25,M,Non-Veg,3,Low,UPI,1,0,March,7.2,17.8,On Time
+ORD088,Little Caesars,"Houston, TX",29-03-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,March,6,14,On Time
+ORD089,Pizza Hut,"Phoenix, AZ",30-03-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,High,Wallet,1,1,March,10.8,14.2,On Time
+ORD090,Marco's Pizza,"Atlanta, GA",31-03-2024,13:00:00,Fast,20,M,Non-Veg,3,Medium,Card,0,1,March,7.2,12.8,On Time
+ORD091,Domino's,"Seattle, WA",01-04-2024,18:30:00,Fast,20,L,Veg,4,Low,UPI,1,0,April,9.6,10.4,On Time
+ORD092,Papa John's,"Denver, CO",02-04-2024,20:15:00,Average,25,S,Vegan,2,High,Cash,1,0,April,4.8,20.2,Delayed
+ORD093,Little Caesars,"Boston, MA",03-04-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,April,8.4,11.6,On Time
+ORD094,Pizza Hut,"Chicago, IL",04-04-2024,19:45:00,Average,25,XL,Cheese Burst,4,Medium,Card,1,0,April,9.6,15.4,On Time
+ORD095,Marco's Pizza,"Miami, FL",05-04-2024,13:00:00,Fast,20,M,Non-Veg,3,High,UPI,0,0,April,7.2,12.8,On Time
+ORD096,Domino's,"Los Angeles, CA",06-04-2024,18:30:00,Fast,20,L,Veg,4.5,High,Card,1,1,April,10.8,9.2,On Time
+ORD097,Papa John's,"Dallas, TX",07-04-2024,20:00:00,Average,25,M,Non-Veg,3,Medium,UPI,1,1,April,7.2,17.8,On Time
+ORD098,Little Caesars,"Chicago, IL",08-04-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,April,6,14,On Time
+ORD099,Pizza Hut,"Phoenix, AZ",09-04-2024,19:45:00,Average,25,XL,Cheese Burst,4,High,Wallet,1,0,April,9.6,15.4,On Time
+ORD100,Marco's Pizza,"Atlanta, GA",10-04-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Low,Card,0,0,April,8.4,11.6,On Time
+ORD101,Domino's,"Seattle, WA",11-04-2024,18:30:00,Fast,20,L,Veg,4.5,Medium,UPI,1,0,April,10.8,9.2,On Time
+ORD102,Papa John's,"Denver, CO",12-04-2024,20:15:00,Average,25,S,Vegan,2,High,Cash,1,0,April,4.8,20.2,Delayed
+ORD103,Little Caesars,"Boston, MA",13-04-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,1,April,8.4,11.6,On Time
+ORD104,Pizza Hut,"Chicago, IL",14-04-2024,19:45:00,Average,25,XL,Cheese Burst,4,Medium,Card,1,1,April,9.6,15.4,On Time
+ORD105,Marco's Pizza,"Miami, FL",15-04-2024,13:00:00,Fast,20,M,Non-Veg,3,High,UPI,0,0,April,7.2,12.8,On Time
+ORD106,Domino's,"Los Angeles, CA",16-04-2024,18:30:00,Fast,20,L,Veg,4.5,Low,Cash,1,0,April,10.8,9.2,On Time
+ORD107,Papa John's,"Phoenix, AZ",17-04-2024,20:00:00,Average,25,M,Non-Veg,3,High,Wallet,1,0,April,7.2,17.8,On Time
+ORD108,Little Caesars,"Atlanta, GA",18-04-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Card,1,0,April,6,14,On Time
+ORD109,Pizza Hut,"Dallas, TX",19-04-2024,19:45:00,Average,25,XL,Cheese Burst,4,Medium,UPI,1,0,April,9.6,15.4,On Time
+ORD110,Marco's Pizza,"Seattle, WA",20-04-2024,13:00:00,Fast,20,M,Non-Veg,3.5,High,Cash,0,1,April,8.4,11.6,On Time
+ORD111,Domino's,"Denver, CO",21-04-2024,18:30:00,Fast,20,L,Veg,4.5,Low,Wallet,1,1,April,10.8,9.2,On Time
+ORD112,Papa John's,"Boston, MA",22-04-2024,20:15:00,Average,25,S,Vegan,2,High,Card,1,0,April,4.8,20.2,Delayed
+ORD113,Little Caesars,"Dallas, TX",23-04-2024,18:30:00,Fast,20,M,Non-Veg,3,High,UPI,1,0,April,7.2,12.8,On Time
+ORD114,Pizza Hut,"Los Angeles, CA",24-04-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,April,10.8,14.2,On Time
+ORD115,Marco's Pizza,"Chicago, IL",25-04-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Medium,Wallet,0,0,April,8.4,11.6,On Time
+ORD116,Domino's,"Miami, FL",26-04-2024,18:30:00,Fast,20,L,Veg,4,High,Card,1,0,April,9.6,10.4,On Time
+ORD117,Papa John's,"Dallas, TX",27-04-2024,20:00:00,Average,25,M,Non-Veg,3,Low,UPI,1,1,April,7.2,17.8,On Time
+ORD118,Little Caesars,"Houston, TX",28-04-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,April,6,14,On Time
+ORD119,Pizza Hut,"Phoenix, AZ",29-04-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,High,Wallet,1,0,April,10.8,14.2,On Time
+ORD120,Marco's Pizza,"Atlanta, GA",30-04-2024,13:00:00,Fast,20,M,Non-Veg,3,Medium,Card,0,0,April,7.2,12.8,On Time
+ORD121,Domino's,"Seattle, WA",01-05-2024,18:30:00,Fast,20,L,Veg,4.5,Low,UPI,1,0,May,10.8,9.2,On Time
+ORD122,Papa John's,"Denver, CO",02-05-2024,20:15:00,Average,25,S,Vegan,2,High,Cash,1,0,May,4.8,20.2,Delayed
+ORD123,Little Caesars,"Boston, MA",03-05-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,May,8.4,11.6,On Time
+ORD124,Pizza Hut,"Chicago, IL",04-05-2024,19:45:00,Average,25,XL,Cheese Burst,4,Medium,Card,1,1,May,9.6,15.4,On Time
+ORD125,Marco's Pizza,"Miami, FL",05-05-2024,13:00:00,Fast,20,M,Non-Veg,3,High,UPI,0,1,May,7.2,12.8,On Time
+ORD126,Domino's,"New York, NY",01-08-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,August,7.2,12.8,On Time
+ORD127,Papa John's,"Chicago, IL",02-08-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,UPI,1,0,August,14.4,15.6,On Time
+ORD128,Pizza Hut,"Los Angeles, CA",03-08-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Wallet,1,1,August,19.2,20.8,Delayed
+ORD129,Little Caesars,"Houston, TX",04-08-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,August,6,14,On Time
+ORD130,Marco's Pizza,"Phoenix, AZ",05-08-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,August,24,26,Delayed
+ORD131,Domino's,"Miami, FL",06-08-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,0,August,13.2,21.8,Delayed
+ORD132,Papa John's,"Denver, CO",07-08-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,August,4.8,15.2,On Time
+ORD133,Pizza Hut,"Boston, MA",08-08-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Cash,1,0,August,18,22,Delayed
+ORD134,Little Caesars,"Dallas, TX",09-08-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Card,1,0,August,9.6,20.4,Delayed
+ORD135,Marco's Pizza,"Seattle, WA",10-08-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,1,August,21.6,23.4,Delayed
+ORD136,Domino's,"San Jose, CA",11-08-2024,18:00:00,Fast,20,M,Veg,3,Low,UPI,1,1,August,7.2,12.8,On Time
+ORD137,Papa John's,"Austin, TX",12-08-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Cash,1,0,August,14.4,15.6,On Time
+ORD138,Pizza Hut,"San Diego, CA",13-08-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,August,19.2,20.8,Delayed
+ORD139,Little Caesars,"Jacksonville, FL",14-08-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Wallet,1,0,August,6,14,On Time
+ORD140,Marco's Pizza,"Fort Worth, TX",15-08-2024,19:00:00,Slow,50,L,Non-Veg,10,High,UPI,1,0,August,24,26,Delayed
+ORD141,Domino's,"Columbus, OH",16-08-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Cash,1,0,August,13.2,21.8,Delayed
+ORD142,Papa John's,"Charlotte, NC",17-08-2024,18:30:00,Fast,20,S,Vegan,2,Low,Card,1,1,August,4.8,15.2,On Time
+ORD143,Pizza Hut,"Indianapolis, IN",18-08-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Wallet,1,1,August,18,22,Delayed
+ORD144,Little Caesars,"San Francisco, CA",19-08-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,August,9.6,20.4,Delayed
+ORD145,Marco's Pizza,"Charlotte, NC",20-08-2024,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,August,21.6,23.4,Delayed
+ORD146,Domino's,"Detroit, MI",21-08-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,August,7.2,12.8,On Time
+ORD147,Papa John's,"El Paso, TX",22-08-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,August,14.4,15.6,On Time
+ORD148,Pizza Hut,"Memphis, TN",23-08-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,UPI,1,0,August,19.2,20.8,Delayed
+ORD149,Little Caesars,"Baltimore, MD",24-08-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,August,6,14,On Time
+ORD150,Marco's Pizza,"Boston, MA",25-08-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,1,August,24,26,Delayed
+ORD151,Domino's,"New York, NY",01-08-2024,18:00:00,Average,30,L,Veg,5.5,High,Domino's Cash,1,0,August,13.2,16.8,On Time
+ORD152,Pizza Hut,"Los Angeles, CA",02-08-2024,19:15:00,Average,30,XL,Cheese Burst,6,Medium,Card,1,0,August,14.4,15.6,On Time
+ORD153,Papa John's,"Chicago, IL",03-08-2024,20:00:00,Average,35,M,Non-Veg,7.2,Low,UPI,1,1,August,17.28,17.72,On Time
+ORD154,Little Caesars,"Houston, TX",04-08-2024,17:45:00,Fast,20,S,Vegan,3,Low,Wallet,0,1,August,7.2,12.8,On Time
+ORD155,Marco's Pizza,"Phoenix, AZ",05-08-2024,13:30:00,Average,30,M,Non-Veg,5,High,Cash,0,0,August,12,18,On Time
+ORD156,Domino's,"Miami, FL",06-08-2024,18:20:00,Average,30,L,Veg,6.5,Medium,Domino's Cash,1,0,August,15.6,14.4,On Time
+ORD157,Papa John's,"Denver, CO",07-08-2024,20:10:00,Average,35,S,Vegan,4,High,Card,1,0,August,9.6,25.4,Delayed
+ORD158,Little Caesars,"Boston, MA",08-08-2024,18:00:00,Average,25,M,Non-Veg,3.5,Low,UPI,1,0,August,8.4,16.6,On Time
+ORD159,Pizza Hut,"Dallas, TX",09-08-2024,19:30:00,Average,30,XL,Cheese Burst,6,Medium,Wallet,1,0,August,14.4,15.6,On Time
+ORD160,Marco's Pizza,"Seattle, WA",10-08-2024,12:45:00,Average,30,M,Non-Veg,5.5,High,Cash,0,1,August,13.2,16.8,On Time
+ORD161,Domino's,"Denver, CO",11-08-2024,18:15:00,Average,30,L,Veg,6,Medium,Domino's Cash,1,1,August,14.4,15.6,On Time
+ORD162,Papa John's,"Boston, MA",12-08-2024,20:00:00,Average,30,S,Vegan,4.5,Low,Card,1,0,August,10.8,19.2,On Time
+ORD163,Little Caesars,"Dallas, TX",13-08-2024,18:10:00,Average,25,M,Non-Veg,3,High,UPI,1,0,August,7.2,17.8,On Time
+ORD164,Pizza Hut,"Los Angeles, CA",14-08-2024,19:20:00,Average,30,XL,Cheese Burst,6.5,Medium,Wallet,1,0,August,15.6,14.4,On Time
+ORD165,Marco's Pizza,"Chicago, IL",15-08-2024,13:15:00,Average,30,M,Non-Veg,5,High,Cash,0,0,August,12,18,On Time
+ORD166,Domino's,"Miami, FL",16-08-2024,18:25:00,Average,30,L,Veg,6,Medium,Domino's Cash,1,0,August,14.4,15.6,On Time
+ORD167,Papa John's,"Denver, CO",17-08-2024,20:05:00,Average,30,S,Vegan,4,Low,Card,1,1,August,9.6,20.4,Delayed
+ORD168,Little Caesars,"Boston, MA",18-08-2024,18:00:00,Average,25,M,Non-Veg,3.5,High,UPI,1,1,August,8.4,16.6,On Time
+ORD169,Pizza Hut,"Dallas, TX",19-08-2024,19:30:00,Average,30,XL,Cheese Burst,6,Medium,Wallet,1,0,August,14.4,15.6,On Time
+ORD170,Marco's Pizza,"Seattle, WA",20-08-2024,13:00:00,Average,30,M,Non-Veg,5.5,Low,Cash,0,0,August,13.2,16.8,On Time
+ORD171,Domino's,"Denver, CO",21-08-2024,18:15:00,Average,30,L,Veg,6,High,Domino's Cash,1,0,August,14.4,15.6,On Time
+ORD172,Papa John's,"Boston, MA",22-08-2024,20:00:00,Average,30,S,Vegan,4.5,Medium,Card,1,0,August,10.8,19.2,On Time
+ORD173,Little Caesars,"Dallas, TX",23-08-2024,18:10:00,Average,25,M,Non-Veg,3,Low,UPI,1,0,August,7.2,17.8,On Time
+ORD174,Pizza Hut,"Los Angeles, CA",24-08-2024,19:20:00,Average,30,XL,Cheese Burst,6.5,High,Wallet,1,1,August,15.6,14.4,On Time
+ORD175,Marco's Pizza,"Atlanta, GA",20-06-2024,13:00:00,Fast,20,M,Non-Veg,3,Medium,Card,0,0,June,7.2,12.8,On Time
+ORD176,Domino's,"Denver, CO",21-06-2024,18:30:00,Fast,20,L,Veg,4.5,Low,UPI,1,0,June,10.8,9.2,On Time
+ORD177,Papa John's,"Boston, MA",22-06-2024,20:15:00,Average,25,S,Vegan,2,High,Cash,1,1,June,4.8,20.2,Delayed
+ORD178,Little Caesars,"Dallas, TX",23-06-2024,18:30:00,Fast,20,M,Non-Veg,3,High,UPI,1,1,June,7.2,12.8,On Time
+ORD179,Pizza Hut,"Los Angeles, CA",24-06-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,June,10.8,14.2,On Time
+ORD180,Marco's Pizza,"Chicago, IL",25-06-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Medium,Wallet,0,0,June,8.4,11.6,On Time
+ORD181,Domino's,"Miami, FL",26-06-2024,18:30:00,Average,25,L,Veg,4.5,High,Card,1,0,June,10.8,14.2,On Time
+ORD182,Papa John's,"Phoenix, AZ",27-06-2024,20:00:00,Average,25,M,Non-Veg,3,Medium,UPI,1,0,June,7.2,17.8,On Time
+ORD183,Little Caesars,"Atlanta, GA",28-06-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,June,6,14,On Time
+ORD184,Pizza Hut,"Chicago, IL",29-06-2024,19:45:00,Average,25,XL,Cheese Burst,4,High,Wallet,1,1,June,9.6,15.4,On Time
+ORD185,Marco's Pizza,"Miami, FL",30-06-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Low,Card,0,1,June,8.4,11.6,On Time
+ORD186,Domino's,"Los Angeles, CA",01-07-2024,18:30:00,Fast,20,L,Veg,4.5,Medium,UPI,1,0,July,10.8,9.2,On Time
+ORD187,Papa John's,"Denver, CO",02-07-2024,20:15:00,Average,25,S,Vegan,2,High,Cash,1,0,July,4.8,20.2,Delayed
+ORD188,Little Caesars,"Boston, MA",03-07-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,July,8.4,11.6,On Time
+ORD189,Pizza Hut,"Dallas, TX",04-07-2024,19:45:00,Average,25,XL,Cheese Burst,4,Medium,Card,1,0,July,9.6,15.4,On Time
+ORD190,Marco's Pizza,"Seattle, WA",05-07-2024,13:00:00,Fast,20,M,Non-Veg,3.5,High,UPI,0,0,July,8.4,11.6,On Time
+ORD191,Domino's,"Denver, CO",06-07-2024,18:30:00,Fast,20,L,Veg,4.5,Low,Cash,1,1,July,10.8,9.2,On Time
+ORD192,Papa John's,"Boston, MA",07-07-2024,20:15:00,Average,25,S,Vegan,2,High,Wallet,1,1,July,4.8,20.2,Delayed
+ORD193,Little Caesars,"Dallas, TX",08-07-2024,18:30:00,Fast,20,M,Non-Veg,3,High,UPI,1,0,July,7.2,12.8,On Time
+ORD194,Pizza Hut,"Los Angeles, CA",09-07-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,July,10.8,14.2,On Time
+ORD195,Marco's Pizza,"Chicago, IL",10-07-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Medium,Wallet,0,0,July,8.4,11.6,On Time
+ORD196,Domino's,"Miami, FL",11-07-2024,18:30:00,Fast,20,L,Veg,4,High,Card,1,0,July,9.6,10.4,On Time
+ORD197,Papa John's,"Dallas, TX",12-07-2024,20:00:00,Average,25,M,Non-Veg,3,Low,UPI,1,0,July,7.2,17.8,On Time
+ORD198,Little Caesars,"Houston, TX",13-07-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,July,6,14,On Time
+ORD199,Pizza Hut,"Phoenix, AZ",14-07-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,High,Wallet,1,1,July,10.8,14.2,On Time
+ORD200,Marco's Pizza,"Atlanta, GA",15-07-2024,13:00:00,Fast,20,M,Non-Veg,3,Medium,Card,0,0,July,7.2,12.8,On Time
+ORD201,Domino's,"New York, NY",16-07-2024,18:30:00,Average,25,L,Veg,5,High,Card,1,0,July,12,13,On Time
+ORD202,Papa John's,"Los Angeles, CA",17-07-2024,19:00:00,Average,30,M,Non-Veg,3.5,Medium,UPI,1,0,July,8.4,21.6,Delayed
+ORD203,Little Caesars,"Chicago, IL",18-07-2024,20:15:00,Average,25,S,Vegan,4,Low,Cash,1,0,July,9.6,15.4,On Time
+ORD204,Pizza Hut,"Houston, TX",19-07-2024,19:45:00,Average,25,XL,Cheese Burst,6,High,Wallet,1,0,July,14.4,10.6,On Time
+ORD205,Marco's Pizza,"Phoenix, AZ",20-07-2024,13:00:00,Average,25,M,Non-Veg,3,Low,Card,0,1,July,7.2,17.8,On Time
+ORD206,Domino's,"Miami, FL",21-07-2024,18:30:00,Average,25,L,Veg,5,High,UPI,1,1,July,12,13,On Time
+ORD207,Papa John's,"Denver, CO",22-07-2024,20:15:00,Average,25,S,Vegan,2.5,Medium,Cash,1,0,July,6,19,On Time
+ORD208,Little Caesars,"Boston, MA",23-07-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,July,8.4,11.6,On Time
+ORD209,Pizza Hut,"Dallas, TX",24-07-2024,19:45:00,Average,25,XL,Cheese Burst,4,High,Card,1,0,July,9.6,15.4,On Time
+ORD210,Marco's Pizza,"Seattle, WA",25-07-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Low,UPI,0,0,July,8.4,11.6,On Time
+ORD211,Domino's,"Denver, CO",26-07-2024,18:30:00,Fast,20,L,Veg,4.5,Medium,Cash,1,0,July,10.8,9.2,On Time
+ORD212,Papa John's,"Boston, MA",27-07-2024,20:15:00,Average,25,S,Vegan,2,High,Wallet,1,1,July,4.8,20.2,Delayed
+ORD213,Little Caesars,"Dallas, TX",28-07-2024,18:30:00,Fast,20,M,Non-Veg,3,High,UPI,1,1,July,7.2,12.8,On Time
+ORD214,Pizza Hut,"Los Angeles, CA",29-07-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,July,10.8,14.2,On Time
+ORD215,Marco's Pizza,"Chicago, IL",30-07-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Medium,Wallet,0,0,July,8.4,11.6,On Time
+ORD216,Domino's,"Miami, FL",31-07-2024,18:30:00,Fast,20,L,Veg,4,High,Card,1,0,July,9.6,10.4,On Time
+ORD217,Papa John's,"Dallas, TX",01-08-2024,20:00:00,Average,25,M,Non-Veg,3,Low,UPI,1,0,August,7.2,17.8,On Time
+ORD218,Little Caesars,"Houston, TX",02-08-2024,19:15:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,August,6,14,On Time
+ORD219,Pizza Hut,"Phoenix, AZ",03-08-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,High,Wallet,1,1,August,10.8,14.2,On Time
+ORD220,Marco's Pizza,"Atlanta, GA",04-08-2024,13:00:00,Fast,20,M,Non-Veg,3,Medium,Card,0,1,August,7.2,12.8,On Time
+ORD221,Domino's,"New York, NY",05-08-2024,18:30:00,Average,25,L,Veg,5,High,Card,1,0,August,12,13,On Time
+ORD222,Papa John's,"Los Angeles, CA",06-08-2024,19:00:00,Average,30,M,Non-Veg,3.5,Medium,UPI,1,0,August,8.4,21.6,Delayed
+ORD223,Little Caesars,"Chicago, IL",07-08-2024,20:15:00,Average,25,S,Vegan,4,Low,Cash,1,0,August,9.6,15.4,On Time
+ORD224,Pizza Hut,"Houston, TX",08-08-2024,19:45:00,Average,25,XL,Cheese Burst,6,High,Wallet,1,0,August,14.4,10.6,On Time
+ORD225,Marco's Pizza,"Phoenix, AZ",09-08-2024,13:00:00,Average,25,M,Non-Veg,3,Low,Card,0,0,August,7.2,17.8,On Time
+ORD226,Domino's,"Miami, FL",10-08-2024,18:30:00,Average,25,L,Veg,5,High,UPI,1,1,August,12,13,On Time
+ORD227,Papa John's,"Denver, CO",11-08-2024,20:15:00,Average,25,S,Vegan,2.5,Medium,Cash,1,1,August,6,19,On Time
+ORD228,Little Caesars,"Boston, MA",12-08-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,August,8.4,11.6,On Time
+ORD229,Pizza Hut,"Los Angeles, CA",13-08-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,August,10.8,14.2,On Time
+ORD230,Domino's,"New York, NY",14-08-2024,18:30:00,Average,35,L,Veg,5,High,UPI,1,0,August,12,23,Delayed
+ORD231,Papa John's,"Chicago, IL",15-08-2024,20:15:00,Average,25,M,Non-Veg,3.5,Medium,Card,1,0,August,8.4,16.6,On Time
+ORD232,Little Caesars,"Houston, TX",16-08-2024,19:00:00,Fast,20,S,Vegan,2,Low,Wallet,1,0,August,4.8,15.2,On Time
+ORD233,Marco's Pizza,"Phoenix, AZ",17-08-2024,13:00:00,Average,30,M,Non-Veg,3,High,UPI,0,1,August,7.2,22.8,Delayed
+ORD234,Domino's,"Miami, FL",18-08-2024,18:30:00,Slow,40,L,Veg,5,High,Card,1,1,August,12,28,Delayed
+ORD235,Papa John's,"Denver, CO",19-08-2024,20:15:00,Fast,20,S,Vegan,2.5,Medium,Cash,1,0,August,6,14,On Time
+ORD236,Little Caesars,"Boston, MA",20-08-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,August,8.4,11.6,On Time
+ORD237,Pizza Hut,"Dallas, TX",21-08-2024,19:45:00,Average,30,XL,Cheese Burst,4,High,Card,1,0,August,9.6,20.4,Delayed
+ORD238,Marco's Pizza,"Seattle, WA",22-08-2024,13:00:00,Average,25,M,Non-Veg,3.5,Low,UPI,0,0,August,8.4,16.6,On Time
+ORD239,Domino's,"Denver, CO",23-08-2024,18:30:00,Fast,20,L,Veg,4.5,Medium,Cash,1,0,August,10.8,9.2,On Time
+ORD240,Papa John's,"Boston, MA",24-08-2024,20:15:00,Average,25,S,Vegan,2,High,Wallet,1,1,August,4.8,20.2,Delayed
+ORD241,Little Caesars,"Dallas, TX",25-08-2024,18:30:00,Fast,20,M,Non-Veg,3,High,UPI,1,1,August,7.2,12.8,On Time
+ORD242,Pizza Hut,"Los Angeles, CA",26-08-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,August,10.8,14.2,On Time
+ORD243,Marco's Pizza,"Chicago, IL",27-08-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Medium,Wallet,0,0,August,8.4,11.6,On Time
+ORD244,Domino's,"Miami, FL",28-08-2024,18:30:00,Average,25,L,Veg,5,High,Card,1,0,August,12,13,On Time
+ORD245,Papa John's,"Denver, CO",29-08-2024,20:15:00,Average,25,S,Vegan,2.5,Medium,Cash,1,0,August,6,19,On Time
+ORD246,Little Caesars,"Boston, MA",30-08-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,August,8.4,11.6,On Time
+ORD247,Pizza Hut,"Dallas, TX",31-08-2024,19:45:00,Average,25,XL,Cheese Burst,4,High,Card,1,1,August,9.6,15.4,On Time
+ORD248,Marco's Pizza,"Seattle, WA",01-09-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Low,UPI,0,1,September,8.4,11.6,On Time
+ORD249,Domino's,"Denver, CO",02-09-2024,18:30:00,Fast,20,L,Veg,4.5,Medium,Cash,1,0,September,10.8,9.2,On Time
+ORD250,Papa John's,"Boston, MA",03-09-2024,20:15:00,Average,25,S,Vegan,2,High,Wallet,1,0,September,4.8,20.2,Delayed
+ORD251,Little Caesars,"Dallas, TX",04-09-2024,18:30:00,Fast,20,M,Non-Veg,3,High,UPI,1,0,September,7.2,12.8,On Time
+ORD252,Pizza Hut,"Los Angeles, CA",05-09-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,September,10.8,14.2,On Time
+ORD253,Marco's Pizza,"Chicago, IL",06-09-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Medium,Wallet,0,0,September,8.4,11.6,On Time
+ORD254,Domino's,"Miami, FL",07-09-2024,18:30:00,Average,25,L,Veg,5,High,Card,1,1,September,12,13,On Time
+ORD255,Papa John's,"Denver, CO",08-09-2024,20:15:00,Average,25,S,Vegan,2.5,Medium,Cash,1,1,September,6,19,On Time
+ORD256,Little Caesars,"Boston, MA",09-09-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,Wallet,1,0,September,8.4,11.6,On Time
+ORD257,Domino's,"San Francisco, CA",10-09-2024,18:00:00,Average,25,L,Veg,5,High,Cash,1,0,September,12,13,On Time
+ORD258,Domino's,"Austin, TX",11-09-2024,19:15:00,Fast,20,M,Non-Veg,3.5,Medium,Card,1,0,September,8.4,11.6,On Time
+ORD259,Domino's,"Seattle, WA",12-09-2024,20:30:00,Fast,20,S,Vegan,2.5,Low,Wallet,1,0,September,6,14,On Time
+ORD260,Domino's,"Chicago, IL",13-09-2024,18:45:00,Average,25,XL,Cheese Burst,4.5,High,UPI,1,0,September,10.8,14.2,On Time
+ORD261,Domino's,"Miami, FL",14-09-2024,19:00:00,Fast,20,M,Non-Veg,3,Medium,Cash,1,1,September,7.2,12.8,On Time
+ORD262,Domino's,"Denver, CO",15-09-2024,20:00:00,Average,25,L,Veg,5,High,Card,1,1,September,12,13,On Time
+ORD263,Domino's,"Boston, MA",16-09-2024,18:30:00,Fast,20,S,Vegan,2,Low,Wallet,1,0,September,4.8,15.2,On Time
+ORD264,Domino's,"Dallas, TX",17-09-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Medium,UPI,1,0,September,10.8,14.2,On Time
+ORD265,Domino's,"Los Angeles, CA",18-09-2024,18:00:00,Fast,20,M,Non-Veg,3.5,High,Cash,1,0,September,8.4,11.6,On Time
+ORD266,Domino's,"New York, NY",19-09-2024,20:15:00,Average,25,L,Veg,5,High,Card,1,0,September,12,13,On Time
+ORD267,Domino's,"San Jose, CA",10-09-2024,18:00:00,Fast,20,M,Veg,3,Low,Cash,1,0,September,7.2,12.8,On Time
+ORD268,Papa John's,"Austin, TX",11-09-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Card,1,0,September,14.4,15.6,On Time
+ORD269,Pizza Hut,"Seattle, WA",12-09-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Wallet,1,0,September,19.2,20.8,Delayed
+ORD270,Little Caesars,"Chicago, IL",13-09-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,UPI,1,0,September,6,14,On Time
+ORD271,Marco's Pizza,"Miami, FL",14-09-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Cash,1,1,September,24,26,Delayed
+ORD272,Domino's,"Denver, CO",15-09-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Card,1,1,September,13.2,21.8,Delayed
+ORD273,Papa John's,"Boston, MA",16-09-2024,18:30:00,Fast,20,S,Vegan,2,Low,Wallet,1,0,September,4.8,15.2,On Time
+ORD274,Pizza Hut,"Dallas, TX",17-09-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,UPI,1,0,September,18,22,Delayed
+ORD275,Little Caesars,"Los Angeles, CA",18-09-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Cash,1,0,September,9.6,20.4,Delayed
+ORD276,Marco's Pizza,"New York, NY",19-09-2024,20:15:00,Slow,45,L,Veg,9,High,Card,1,0,September,21.6,23.4,Delayed
+ORD278,Domino's,"New York, NY",15-09-2024,18:45:00,Average,25,L,Veg,5,High,Domino's Cash,1,1,September,12,13,On Time
+ORD279,Pizza Hut,"Los Angeles, CA",16-09-2024,20:00:00,Average,30,XL,Cheese Burst,6.5,Medium,Card,1,0,September,15.6,14.4,On Time
+ORD280,Papa John's,"Chicago, IL",17-09-2024,19:15:00,Fast,20,M,Non-Veg,4,Low,UPI,1,0,September,9.6,10.4,On Time
+ORD281,Little Caesars,"Houston, TX",18-09-2024,18:30:00,Average,35,S,Vegan,7.5,High,Wallet,1,0,September,18,17,On Time
+ORD282,Marco's Pizza,"Phoenix, AZ",19-09-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Low,Card,0,0,September,8.4,11.6,On Time
+ORD283,Domino's,"Miami, FL",20-09-2024,18:45:00,Average,30,L,Veg,6,Medium,Domino's Cash,1,0,September,14.4,15.6,On Time
+ORD284,Pizza Hut,"Denver, CO",21-09-2024,20:15:00,Average,25,XL,Cheese Burst,5,Low,UPI,1,1,September,12,13,On Time
+ORD285,Papa John's,"Boston, MA",22-09-2024,19:30:00,Average,25,S,Vegan,4,High,Wallet,1,1,September,9.6,15.4,On Time
+ORD286,Little Caesars,"Dallas, TX",23-09-2024,18:00:00,Fast,20,M,Non-Veg,3,Medium,Card,1,0,September,7.2,12.8,On Time
+ORD287,Marco's Pizza,"Seattle, WA",24-09-2024,13:15:00,Average,30,M,Non-Veg,6,High,UPI,0,0,September,14.4,15.6,On Time
+ORD288,Domino's,"New York, NY",25-09-2024,18:30:00,Average,30,L,Veg,5.5,High,Domino's Cash,1,0,September,13.2,16.8,On Time
+ORD289,Pizza Hut,"Los Angeles, CA",26-09-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,0,September,10.8,14.2,On Time
+ORD290,Papa John's,"Chicago, IL",27-09-2024,20:15:00,Average,25,M,Non-Veg,3.5,Medium,Card,1,0,September,8.4,16.6,On Time
+ORD291,Little Caesars,"Houston, TX",28-09-2024,18:30:00,Fast,20,S,Vegan,2,Low,Wallet,1,1,September,4.8,15.2,On Time
+ORD292,Marco's Pizza,"Phoenix, AZ",29-09-2024,13:00:00,Fast,20,M,Non-Veg,3,Low,UPI,0,1,September,7.2,12.8,On Time
+ORD293,Domino's,"Miami, FL",30-09-2024,18:30:00,Average,25,L,Veg,5,High,Domino's Cash,1,0,September,12,13,On Time
+ORD294,Pizza Hut,"Denver, CO",01-10-2024,19:45:00,Average,25,XL,Cheese Burst,4,High,Card,1,0,October,9.6,15.4,On Time
+ORD295,Papa John's,"Boston, MA",02-10-2024,20:15:00,Average,25,S,Vegan,2.5,Medium,Wallet,1,0,October,6,19,On Time
+ORD296,Little Caesars,"Dallas, TX",03-10-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,UPI,1,0,October,8.4,11.6,On Time
+ORD297,Marco's Pizza,"Seattle, WA",04-10-2024,13:00:00,Fast,20,M,Non-Veg,3.5,Low,Card,0,0,October,8.4,11.6,On Time
+ORD298,Domino's,"New York, NY",05-10-2024,18:30:00,Average,25,L,Veg,5,High,Domino's Cash,1,1,October,12,13,On Time
+ORD299,Pizza Hut,"Los Angeles, CA",06-10-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Cash,1,1,October,10.8,14.2,On Time
+ORD300,Papa John's,"Chicago, IL",07-10-2024,20:15:00,Average,25,M,Non-Veg,3.5,Medium,Card,1,0,October,8.4,16.6,On Time
+ORD301,Little Caesars,"Houston, TX",08-10-2024,18:30:00,Fast,20,S,Vegan,2,Low,Wallet,1,0,October,4.8,15.2,On Time
+ORD302,Marco's Pizza,"Phoenix, AZ",09-10-2024,13:00:00,Fast,20,M,Non-Veg,3,Low,UPI,0,0,October,7.2,12.8,On Time
+ORD303,Domino's,"Miami, FL",10-10-2024,18:30:00,Average,25,L,Veg,5,High,Domino's Cash,1,0,October,12,13,On Time
+ORD304,Pizza Hut,"Denver, CO",11-10-2024,19:45:00,Average,25,XL,Cheese Burst,4.5,Low,Card,1,0,October,10.8,14.2,On Time
+ORD305,Papa John's,"Boston, MA",12-10-2024,20:15:00,Average,25,S,Vegan,2.5,Medium,Wallet,1,1,October,6,19,On Time
+ORD306,Little Caesars,"Dallas, TX",13-10-2024,18:30:00,Fast,20,M,Non-Veg,3.5,Low,UPI,1,1,October,8.4,11.6,On Time
+ORD307,Domino's,"New York, NY",26-08-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,August,7.2,12.8,On Time
+ORD308,Papa John's,"Chicago, IL",27-08-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,UPI,1,0,August,14.4,15.6,On Time
+ORD309,Pizza Hut,"Los Angeles, CA",28-08-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,August,19.2,20.8,Delayed
+ORD310,Little Caesars,"Houston, TX",29-08-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,August,6,14,On Time
+ORD311,Marco's Pizza,"Phoenix, AZ",30-08-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,August,24,26,Delayed
+ORD312,Domino's,"Miami, FL",31-08-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,1,August,13.2,21.8,Delayed
+ORD313,Papa John's,"Denver, CO",01-09-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,1,September,4.8,15.2,On Time
+ORD314,Pizza Hut,"Boston, MA",02-09-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Hut Points,1,0,September,18,22,Delayed
+ORD315,Little Caesars,"Dallas, TX",03-09-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Cash,1,0,September,9.6,20.4,Delayed
+ORD316,Marco's Pizza,"Seattle, WA",04-09-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,0,September,21.6,23.4,Delayed
+ORD317,Domino's,"San Jose, CA",05-09-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,September,7.2,12.8,On Time
+ORD318,Papa John's,"Austin, TX",06-09-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Cash,1,0,September,14.4,15.6,On Time
+ORD319,Pizza Hut,"San Diego, CA",07-09-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,1,September,19.2,20.8,Delayed
+ORD320,Little Caesars,"Jacksonville, FL",08-09-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Wallet,1,1,September,6,14,On Time
+ORD321,Marco's Pizza,"Fort Worth, TX",09-09-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,September,24,26,Delayed
+ORD322,Domino's,"Columbus, OH",10-09-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,0,September,13.2,21.8,Delayed
+ORD323,Papa John's,"Charlotte, NC",11-09-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,September,4.8,15.2,On Time
+ORD324,Pizza Hut,"Indianapolis, IN",12-09-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Hut Points,1,0,September,18,22,Delayed
+ORD325,Little Caesars,"San Francisco, CA",13-09-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Cash,1,0,September,9.6,20.4,Delayed
+ORD326,Marco's Pizza,"Charlotte, NC",14-09-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,1,September,21.6,23.4,Delayed
+ORD327,Domino's,"Detroit, MI",15-09-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,1,September,7.2,12.8,On Time
+ORD328,Papa John's,"El Paso, TX",16-09-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Cash,1,0,September,14.4,15.6,On Time
+ORD329,Pizza Hut,"Memphis, TN",17-09-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,September,19.2,20.8,Delayed
+ORD330,Little Caesars,"Baltimore, MD",18-09-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Wallet,1,0,September,6,14,On Time
+ORD331,Marco's Pizza,"Boston, MA",19-09-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,September,24,26,Delayed
+ORD332,Domino's,"New York, NY",20-09-2024,18:00:00,Fast,20,M,Veg,3,Low,Domino's Cash,1,0,September,7.2,12.8,On Time
+ORD333,Papa John's,"Chicago, IL",21-09-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,UPI,1,1,September,14.4,15.6,On Time
+ORD334,Pizza Hut,"Los Angeles, CA",22-09-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,1,September,19.2,20.8,Delayed
+ORD335,Little Caesars,"Houston, TX",23-09-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,September,6,14,On Time
+ORD336,Marco's Pizza,"Phoenix, AZ",24-09-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,September,24,26,Delayed
+ORD337,Domino's,"Miami, FL",25-09-2024,20:00:00,Fast,20,M,Veg,3,Low,Card,1,0,September,7.2,12.8,On Time
+ORD338,Papa John's,"Chicago, IL",26-09-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,UPI,1,0,September,14.4,15.6,On Time
+ORD339,Pizza Hut,"Los Angeles, CA",27-09-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,September,19.2,20.8,Delayed
+ORD340,Little Caesars,"Houston, TX",28-09-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,September,6,14,On Time
+ORD341,Marco's Pizza,"Phoenix, AZ",29-09-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,1,September,24,26,Delayed
+ORD342,Domino's,"Miami, FL",30-09-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,0,September,13.2,21.8,Delayed
+ORD343,Papa John's,"Denver, CO",01-10-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,October,4.8,15.2,On Time
+ORD344,Pizza Hut,"Boston, MA",02-10-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Hut Points,1,0,October,18,22,Delayed
+ORD345,Little Caesars,"Dallas, TX",03-10-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Cash,1,0,October,9.6,20.4,Delayed
+ORD346,Marco's Pizza,"Seattle, WA",04-10-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,0,October,21.6,23.4,Delayed
+ORD347,Domino's,"San Jose, CA",05-10-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,1,October,7.2,12.8,On Time
+ORD348,Papa John's,"Austin, TX",06-10-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Cash,1,1,October,14.4,15.6,On Time
+ORD349,Pizza Hut,"San Diego, CA",07-10-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,October,19.2,20.8,Delayed
+ORD350,Little Caesars,"Jacksonville, FL",08-10-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Wallet,1,0,October,6,14,On Time
+ORD351,Marco's Pizza,"Fort Worth, TX",09-10-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,October,24,26,Delayed
+ORD352,Domino's,"Columbus, OH",10-10-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,0,October,13.2,21.8,Delayed
+ORD353,Papa John's,"Charlotte, NC",11-10-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,October,4.8,15.2,On Time
+ORD354,Pizza Hut,"Indianapolis, IN",12-10-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Hut Points,1,1,October,18,22,Delayed
+ORD355,Little Caesars,"San Francisco, CA",13-10-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Cash,1,1,October,9.6,20.4,Delayed
+ORD356,Marco's Pizza,"Charlotte, NC",14-10-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,0,October,21.6,23.4,Delayed
+ORD357,Domino's,"Detroit, MI",15-10-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,October,7.2,12.8,On Time
+ORD358,Papa John's,"El Paso, TX",16-10-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,October,14.4,15.6,On Time
+ORD359,Pizza Hut,"Memphis, TN",17-10-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,October,19.2,20.8,Delayed
+ORD360,Little Caesars,"Baltimore, MD",18-10-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,October,6,14,On Time
+ORD361,Marco's Pizza,"Boston, MA",19-10-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,1,October,24,26,Delayed
+ORD362,Domino's,"New York, NY",20-10-2024,18:00:00,Fast,20,M,Veg,3,Low,Domino's Cash,1,1,October,7.2,12.8,On Time
+ORD363,Domino's,"Miami, FL",21-10-2024,20:00:00,Fast,20,M,Veg,3,Low,Card,1,0,October,7.2,12.8,On Time
+ORD364,Papa John's,"Chicago, IL",22-10-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,UPI,1,0,October,14.4,15.6,On Time
+ORD365,Pizza Hut,"Los Angeles, CA",23-10-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,October,19.2,20.8,Delayed
+ORD366,Little Caesars,"Houston, TX",24-10-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,October,6,14,On Time
+ORD367,Marco's Pizza,"Phoenix, AZ",25-10-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,October,24,26,Delayed
+ORD368,Domino's,"Miami, FL",26-10-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,1,October,13.2,21.8,Delayed
+ORD369,Papa John's,"Denver, CO",27-10-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,1,October,4.8,15.2,On Time
+ORD370,Pizza Hut,"Boston, MA",28-10-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Hut Points,1,0,October,18,22,Delayed
+ORD371,Little Caesars,"Dallas, TX",29-10-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Card,1,0,October,9.6,20.4,Delayed
+ORD372,Marco's Pizza,"Seattle, WA",30-10-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,0,October,21.6,23.4,Delayed
+ORD373,Domino's,"San Jose, CA",31-10-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,October,7.2,12.8,On Time
+ORD374,Papa John's,"Austin, TX",01-11-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Cash,1,0,November,14.4,15.6,On Time
+ORD375,Pizza Hut,"San Diego, CA",02-11-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,1,November,19.2,20.8,Delayed
+ORD376,Little Caesars,"Jacksonville, FL",03-11-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Wallet,1,1,November,6,14,On Time
+ORD377,Marco's Pizza,"Fort Worth, TX",04-11-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,November,24,26,Delayed
+ORD378,Domino's,"Columbus, OH",05-11-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,0,November,13.2,21.8,Delayed
+ORD379,Papa John's,"Charlotte, NC",06-11-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,November,4.8,15.2,On Time
+ORD380,Pizza Hut,"Indianapolis, IN",07-11-2024,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Hut Points,1,0,November,18,22,Delayed
+ORD381,Little Caesars,"San Francisco, CA",08-11-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,November,9.6,20.4,Delayed
+ORD382,Marco's Pizza,"Charlotte, NC",09-11-2024,20:15:00,Slow,45,L,Veg,9,High,Cash,1,1,November,21.6,23.4,Delayed
+ORD383,Domino's,"Detroit, MI",10-11-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,1,November,7.2,12.8,On Time
+ORD384,Papa John's,"El Paso, TX",11-11-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,November,14.4,15.6,On Time
+ORD385,Pizza Hut,"Memphis, TN",12-11-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,November,19.2,20.8,Delayed
+ORD386,Little Caesars,"Baltimore, MD",13-11-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,November,6,14,On Time
+ORD387,Marco's Pizza,"Boston, MA",14-11-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,November,24,26,Delayed
+ORD388,Domino's,"New York, NY",15-11-2024,18:00:00,Fast,20,M,Veg,3,Low,Domino's Cash,1,0,November,7.2,12.8,On Time
+ORD389,Domino's,"Miami, FL",16-11-2024,20:00:00,Fast,20,M,Veg,3,Low,Card,1,1,November,7.2,12.8,On Time
+ORD390,Papa John's,"Chicago, IL",17-11-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,UPI,1,1,November,14.4,15.6,On Time
+ORD391,Pizza Hut,"Los Angeles, CA",18-11-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,November,19.2,20.8,Delayed
+ORD392,Little Caesars,"Houston, TX",19-11-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,November,6,14,On Time
+ORD393,Marco's Pizza,"Phoenix, AZ",20-11-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,November,24,26,Delayed
+ORD394,Domino's,"Miami, FL",21-11-2024,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,November,13.2,21.8,Delayed
+ORD395,Papa John's,"Denver, CO",22-11-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,November,4.8,15.2,On Time
+ORD396,Pizza Hut,"Boston, MA",23-11-2024,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Hut Points,1,1,November,18,22,Delayed
+ORD397,Little Caesars,"Dallas, TX",24-11-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Card,1,1,November,9.6,20.4,Delayed
+ORD398,Marco's Pizza,"Seattle, WA",25-11-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,0,November,21.6,23.4,Delayed
+ORD399,Domino's,"San Jose, CA",26-11-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,November,7.2,12.8,On Time
+ORD400,Papa John's,"Austin, TX",27-11-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Cash,1,0,November,14.4,15.6,On Time
+ORD401,Pizza Hut,"San Diego, CA",28-11-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,0,November,19.2,20.8,Delayed
+ORD402,Little Caesars,"Jacksonville, FL",29-11-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Wallet,1,0,November,6,14,On Time
+ORD403,Marco's Pizza,"Fort Worth, TX",30-11-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,1,November,24,26,Delayed
+ORD404,Domino's,"Columbus, OH",01-12-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,1,December,13.2,21.8,Delayed
+ORD405,Papa John's,"Charlotte, NC",02-12-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,December,4.8,15.2,On Time
+ORD406,Pizza Hut,"Indianapolis, IN",03-12-2024,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Hut Points,1,0,December,18,22,Delayed
+ORD407,Little Caesars,"San Francisco, CA",04-12-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,December,9.6,20.4,Delayed
+ORD408,Marco's Pizza,"Charlotte, NC",05-12-2024,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,December,21.6,23.4,Delayed
+ORD409,Domino's,"Detroit, MI",06-12-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,December,7.2,12.8,On Time
+ORD410,Papa John's,"El Paso, TX",07-12-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,1,December,14.4,15.6,On Time
+ORD411,Pizza Hut,"Memphis, TN",08-12-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,1,December,19.2,20.8,Delayed
+ORD412,Little Caesars,"Baltimore, MD",09-12-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,December,6,14,On Time
+ORD413,Marco's Pizza,"Boston, MA",10-12-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,December,24,26,Delayed
+ORD414,Domino's,"New York, NY",11-12-2024,18:00:00,Fast,20,M,Veg,3,Low,Domino's Cash,1,0,December,7.2,12.8,On Time
+ORD415,Domino's,"Miami, FL",12-12-2024,20:00:00,Fast,20,M,Thin Crust,3,Low,Card,1,0,December,7.2,12.8,On Time
+ORD416,Papa John's,"Chicago, IL",13-12-2024,19:15:00,Average,30,L,Deep Dish,6,Medium,UPI,1,0,December,14.4,15.6,On Time
+ORD417,Pizza Hut,"Los Angeles, CA",14-12-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,1,December,19.2,20.8,Delayed
+ORD418,Little Caesars,"Houston, TX",15-12-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,December,6,14,On Time
+ORD419,Marco's Pizza,"Phoenix, AZ",16-12-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,December,24,26,Delayed
+ORD420,Domino's,"Miami, FL",17-12-2024,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,December,13.2,21.8,Delayed
+ORD421,Papa John's,"Denver, CO",18-12-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,December,4.8,15.2,On Time
+ORD422,Pizza Hut,"Boston, MA",19-12-2024,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,December,18,22,Delayed
+ORD423,Little Caesars,"Dallas, TX",20-12-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Card,1,0,December,9.6,20.4,Delayed
+ORD424,Marco's Pizza,"Seattle, WA",21-12-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,1,December,21.6,23.4,Delayed
+ORD425,Domino's,"Miami, FL",12-12-2024,20:00:00,Fast,20,M,Thin Crust,3,Low,Card,1,0,December,7.2,12.8,On Time
+ORD426,Papa John's,"Chicago, IL",13-12-2024,19:15:00,Average,30,L,Deep Dish,6,Medium,UPI,1,0,December,14.4,15.6,On Time
+ORD427,Pizza Hut,"Los Angeles, CA",14-12-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Hut Points,1,1,December,19.2,20.8,Delayed
+ORD428,Little Caesars,"Houston, TX",15-12-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,December,6,14,On Time
+ORD429,Marco's Pizza,"Phoenix, AZ",16-12-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,December,24,26,Delayed
+ORD430,Domino's,"Miami, FL",17-12-2024,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,December,13.2,21.8,Delayed
+ORD431,Papa John's,"Denver, CO",18-12-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,December,4.8,15.2,On Time
+ORD432,Pizza Hut,"Boston, MA",19-12-2024,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,December,18,22,Delayed
+ORD433,Little Caesars,"Dallas, TX",20-12-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,Card,1,0,December,9.6,20.4,Delayed
+ORD434,Marco's Pizza,"Seattle, WA",21-12-2024,20:15:00,Slow,45,L,Veg,9,High,Wallet,1,1,December,21.6,23.4,Delayed
+ORD435,Domino's,"San Jose, CA",22-12-2024,18:00:00,Fast,20,M,Veg,3,Low,Card,1,1,December,7.2,12.8,On Time
+ORD436,Papa John's,"Austin, TX",23-12-2024,19:15:00,Average,30,L,Non-Veg,6,Medium,Cash,1,0,December,14.4,15.6,On Time
+ORD437,Pizza Hut,"San Diego, CA",24-12-2024,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,December,19.2,20.8,Delayed
+ORD438,Little Caesars,"Jacksonville, FL",25-12-2024,18:45:00,Fast,20,S,Vegan,2.5,Low,Wallet,1,0,December,6,14,On Time
+ORD439,Marco's Pizza,"Fort Worth, TX",26-12-2024,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,December,24,26,Delayed
+ORD440,Domino's,"Columbus, OH",27-12-2024,20:00:00,Average,35,M,Veg,5.5,Medium,Wallet,1,0,December,13.2,21.8,Delayed
+ORD441,Papa John's,"Charlotte, NC",28-12-2024,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,1,December,4.8,15.2,On Time
+ORD442,Pizza Hut,"Indianapolis, IN",29-12-2024,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,1,December,18,22,Delayed
+ORD443,Little Caesars,"San Francisco, CA",30-12-2024,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,December,9.6,20.4,Delayed
+ORD444,Marco's Pizza,"Charlotte, NC",31-12-2024,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,December,21.6,23.4,Delayed
+ORD445,Domino's,"Detroit, MI",01-01-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,January,7.2,12.8,On Time
+ORD446,Papa John's,"El Paso, TX",02-01-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,January,14.4,15.6,On Time
+ORD447,Pizza Hut,"Memphis, TN",03-01-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,January,19.2,20.8,Delayed
+ORD448,Little Caesars,"Baltimore, MD",04-01-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,January,6,14,On Time
+ORD449,Marco's Pizza,"Boston, MA",05-01-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,1,January,24,26,Delayed
+ORD450,Domino's,"New York, NY",06-01-2025,18:00:00,Fast,20,M,Veg,3,Low,Domino's Cash,1,0,January,7.2,12.8,On Time
+ORD451,Papa John's,"Chicago, IL",07-01-2025,19:15:00,Average,30,L,Deep Dish,6,Medium,UPI,1,0,January,14.4,15.6,On Time
+ORD452,Pizza Hut,"Los Angeles, CA",08-01-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,January,19.2,20.8,Delayed
+ORD453,Little Caesars,"Houston, TX",09-01-2025,18:00:00,Average,30,M,Thai Chicken,5,Medium,Card,1,0,January,12,18,On Time
+ORD454,Marco's Pizza,"Atlanta, GA",10-01-2025,19:15:00,Average,35,L,Sicilian,6.5,High,UPI,1,0,January,15.6,19.4,On Time
+ORD455,Domino's,"Orlando, FL",11-01-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Wallet,1,1,January,19.2,20.8,Delayed
+ORD456,Papa John's,"Austin, TX",12-01-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,January,6,14,On Time
+ORD457,Pizza Hut,"Seattle, WA",13-01-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,January,24,26,Delayed
+ORD458,Domino's,"Miami, FL",14-01-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Domino's Cash,1,0,January,13.2,21.8,Delayed
+ORD459,Papa John's,"Denver, CO",15-01-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,January,4.8,15.2,On Time
+ORD460,Pizza Hut,"Boston, MA",16-01-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,January,18,22,Delayed
+ORD461,Domino's,"New York, NY",17-01-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,January,7.2,12.8,On Time
+ORD462,Papa John's,"Chicago, IL",18-01-2025,19:15:00,Average,30,L,Deep Dish,6,Medium,UPI,1,1,January,14.4,15.6,On Time
+ORD463,Little Caesars,"Los Angeles, CA",19-01-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Wallet,1,1,January,19.2,20.8,Delayed
+ORD464,Marco's Pizza,"Houston, TX",20-01-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,January,6,14,On Time
+ORD465,Domino's,"Phoenix, AZ",21-01-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,January,24,26,Delayed
+ORD466,Papa John's,"Philadelphia, PA",22-01-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,January,13.2,21.8,Delayed
+ORD467,Pizza Hut,"San Antonio, TX",23-01-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,January,4.8,15.2,On Time
+ORD468,Little Caesars,"San Diego, CA",24-01-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,January,18,22,Delayed
+ORD469,Marco's Pizza,"Dallas, TX",25-01-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,1,January,9.6,20.4,Delayed
+ORD470,Domino's,"San Jose, CA",26-01-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,1,January,21.6,23.4,Delayed
+ORD471,Papa John's,"Austin, TX",27-01-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,January,7.2,12.8,On Time
+ORD472,Pizza Hut,"Jacksonville, FL",28-01-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,January,14.4,15.6,On Time
+ORD473,Little Caesars,"Fort Worth, TX",29-01-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,January,19.2,20.8,Delayed
+ORD474,Marco's Pizza,"Columbus, OH",30-01-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,January,6,14,On Time
+ORD475,Domino's,"Charlotte, NC",31-01-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,January,24,26,Delayed
+ORD476,Papa John's,"San Francisco, CA",01-02-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,1,February,13.2,21.8,Delayed
+ORD477,Pizza Hut,"Indianapolis, IN",02-02-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,1,February,4.8,15.2,On Time
+ORD478,Little Caesars,"Seattle, WA",03-02-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,February,18,22,Delayed
+ORD479,Marco's Pizza,"Denver, CO",04-02-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,February,9.6,20.4,Delayed
+ORD480,Domino's,"Washington, DC",05-02-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,February,21.6,23.4,Delayed
+ORD481,Papa John's,"Boston, MA",06-02-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,February,7.2,12.8,On Time
+ORD482,Pizza Hut,"Nashville, TN",07-02-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,February,14.4,15.6,On Time
+ORD483,Little Caesars,"Baltimore, MD",08-02-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,1,February,19.2,20.8,Delayed
+ORD484,Marco's Pizza,"Louisville, KY",09-02-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,February,6,14,On Time
+ORD485,Domino's,"Milwaukee, WI",10-02-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,February,24,26,Delayed
+ORD486,Papa John's,"Albuquerque, NM",11-02-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,February,13.2,21.8,Delayed
+ORD487,Pizza Hut,"Tucson, AZ",12-02-2025,18:30:00,Fast,20,S,Vegan,2,Low,Wallet,1,0,February,4.8,15.2,On Time
+ORD488,Little Caesars,"Fresno, CA",13-02-2025,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Card,1,0,February,18,22,Delayed
+ORD489,Marco's Pizza,"Sacramento, CA",14-02-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,February,7.2,12.8,On Time
+ORD490,Domino's,"Kansas City, MO",15-02-2025,19:15:00,Average,30,L,Deep Dish,6,Medium,UPI,1,1,February,14.4,15.6,On Time
+ORD491,Papa John's,"Long Beach, CA",16-02-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Wallet,1,1,February,19.2,20.8,Delayed
+ORD492,Pizza Hut,"Mesa, AZ",17-02-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,February,6,14,On Time
+ORD493,Domino's,"Atlanta, GA",18-02-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,February,24,26,Delayed
+ORD494,Papa John's,"Omaha, NE",19-02-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,February,13.2,21.8,Delayed
+ORD495,Pizza Hut,"Raleigh, NC",20-02-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,February,4.8,15.2,On Time
+ORD496,Little Caesars,"Miami, FL",21-02-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,February,18,22,Delayed
+ORD497,Marco's Pizza,"Tulsa, OK",22-02-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,1,February,9.6,20.4,Delayed
+ORD498,Domino's,"Minneapolis, MN",23-02-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,1,February,21.6,23.4,Delayed
+ORD499,Papa John's,"Arlington, TX",24-02-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,February,7.2,12.8,On Time
+ORD500,Pizza Hut,"New Orleans, LA",25-02-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,February,14.4,15.6,On Time
+ORD501,Little Caesars,"Wichita, KS",26-02-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,February,19.2,20.8,Delayed
+ORD502,Marco's Pizza,"Cleveland, OH",27-02-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,February,6,14,On Time
+ORD503,Domino's,"Tampa, FL",28-02-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Domino's Cash,1,0,February,24,26,Delayed
+ORD504,Papa John's,"Bakersfield, CA",01-03-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,1,March,13.2,21.8,Delayed
+ORD505,Pizza Hut,"Aurora, CO",02-03-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,1,March,4.8,15.2,On Time
+ORD506,Little Caesars,"Anaheim, CA",03-03-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,March,18,22,Delayed
+ORD507,Marco's Pizza,"Honolulu, HI",04-03-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,March,9.6,20.4,Delayed
+ORD508,Domino's,"Lexington, KY",05-03-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,March,21.6,23.4,Delayed
+ORD509,Papa John's,"Stockton, CA",06-03-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,March,7.2,12.8,On Time
+ORD510,Pizza Hut,"Corpus Christi, TX",07-03-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,March,14.4,15.6,On Time
+ORD511,Little Caesars,"Henderson, NV",08-03-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,1,March,19.2,20.8,Delayed
+ORD512,Marco's Pizza,"Riverside, CA",09-03-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,March,6,14,On Time
+ORD513,Domino's,"Newark, NJ",10-03-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,March,24,26,Delayed
+ORD514,Papa John's,"St. Paul, MN",11-03-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,March,13.2,21.8,Delayed
+ORD515,Pizza Hut,"Plano, TX",12-03-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,March,4.8,15.2,On Time
+ORD516,Little Caesars,"Lincoln, NE",13-03-2025,19:45:00,Slow,40,XL,Cheese Burst,7.5,High,Card,1,0,March,18,22,Delayed
+ORD517,Marco's Pizza,"Boise, ID",14-03-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,March,7.2,12.8,On Time
+ORD518,Domino's,"Reno, NV",15-03-2025,19:15:00,Average,30,L,Deep Dish,6,Medium,UPI,1,1,March,14.4,15.6,On Time
+ORD519,Papa John's,"Scottsdale, AZ",16-03-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Wallet,1,1,March,19.2,20.8,Delayed
+ORD520,Pizza Hut,"Irving, TX",17-03-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,March,6,14,On Time
+ORD521,Domino's,"Orlando, FL",18-03-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,March,24,26,Delayed
+ORD522,Papa John's,"Madison, WI",19-03-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,March,13.2,21.8,Delayed
+ORD523,Pizza Hut,"Lubbock, TX",20-03-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,March,4.8,15.2,On Time
+ORD524,Little Caesars,"Chandler, AZ",21-03-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,March,18,22,Delayed
+ORD525,Marco's Pizza,"Garland, TX",22-03-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,1,March,9.6,20.4,Delayed
+ORD526,Domino's,"Glendale, AZ",23-03-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,1,March,21.6,23.4,Delayed
+ORD527,Papa John's,"Akron, OH",24-03-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,March,7.2,12.8,On Time
+ORD528,Pizza Hut,"Baton Rouge, LA",25-03-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,March,14.4,15.6,On Time
+ORD529,Little Caesars,"Durham, NC",26-03-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,March,19.2,20.8,Delayed
+ORD530,Marco's Pizza,"Chula Vista, CA",27-03-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,March,6,14,On Time
+ORD531,Domino's,"Fort Wayne, IN",28-03-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Domino's Cash,1,0,March,24,26,Delayed
+ORD532,Papa John's,"St. Petersburg, FL",29-03-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,1,March,13.2,21.8,Delayed
+ORD533,Pizza Hut,"Jersey City, NJ",30-03-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,1,March,4.8,15.2,On Time
+ORD534,Little Caesars,"St. Louis, MO",31-03-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,March,18,22,Delayed
+ORD535,Marco's Pizza,"Norfolk, VA",01-04-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,April,9.6,20.4,Delayed
+ORD536,Domino's,"Laredo, TX",02-04-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,April,21.6,23.4,Delayed
+ORD537,Papa John's,"Chandler, AZ",03-04-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,April,7.2,12.8,On Time
+ORD538,Pizza Hut,"Lubbock, TX",04-04-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,April,14.4,15.6,On Time
+ORD539,Little Caesars,"Garland, TX",05-04-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,1,April,19.2,20.8,Delayed
+ORD540,Marco's Pizza,"Glendale, AZ",06-04-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,April,6,14,On Time
+ORD541,Domino's,"Akron, OH",07-04-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,April,24,26,Delayed
+ORD542,Papa John's,"Baton Rouge, LA",08-04-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,April,13.2,21.8,Delayed
+ORD543,Pizza Hut,"Durham, NC",09-04-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,April,4.8,15.2,On Time
+ORD544,Domino's,"Austin, TX",10-04-2025,19:00:00,Slow,45,L,Thai Chicken,7,Medium,Card,1,0,April,16.8,28.2,Delayed
+ORD545,Papa John's,"Denver, CO",11-04-2025,20:15:00,Slow,40,M,Sicilian,6.5,High,Wallet,1,0,April,15.6,24.4,Delayed
+ORD546,Pizza Hut,"Miami, FL",12-04-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,April,6,14,On Time
+ORD547,Little Caesars,"Seattle, WA",13-04-2025,19:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,1,April,19.2,20.8,Delayed
+ORD548,Marco's Pizza,"Portland, OR",14-04-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,April,9.6,20.4,Delayed
+ORD549,Domino's,"Chicago, IL",15-04-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,April,21.6,23.4,Delayed
+ORD550,Papa John's,"Boston, MA",16-04-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,April,7.2,12.8,On Time
+ORD551,Pizza Hut,"Atlanta, GA",17-04-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,April,14.4,15.6,On Time
+ORD552,Little Caesars,"Phoenix, AZ",18-04-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,April,19.2,20.8,Delayed
+ORD553,Marco's Pizza,"San Diego, CA",19-04-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,April,6,14,On Time
+ORD554,Domino's,"Columbus, OH",20-04-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Domino's Cash,1,1,April,24,26,Delayed
+ORD555,Papa John's,"Charlotte, NC",21-04-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,April,13.2,21.8,Delayed
+ORD556,Pizza Hut,"Nashville, TN",22-04-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,April,4.8,15.2,On Time
+ORD557,Little Caesars,"Oklahoma City, OK",23-04-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,April,18,22,Delayed
+ORD558,Marco's Pizza,"Las Vegas, NV",24-04-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,April,9.6,20.4,Delayed
+ORD559,Domino's,"Indianapolis, IN",25-04-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,April,21.6,23.4,Delayed
+ORD560,Papa John's,"San Jose, CA",26-04-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,1,April,7.2,12.8,On Time
+ORD561,Pizza Hut,"Jacksonville, FL",27-04-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,1,April,14.4,15.6,On Time
+ORD562,Little Caesars,"Fort Worth, TX",28-04-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,April,19.2,20.8,Delayed
+ORD563,Marco's Pizza,"Memphis, TN",29-04-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,April,6,14,On Time
+ORD564,Domino's,"Baltimore, MD",30-04-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,April,24,26,Delayed
+ORD565,Papa John's,"Milwaukee, WI",01-05-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,May,13.2,21.8,Delayed
+ORD566,Pizza Hut,"Albuquerque, NM",02-05-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,May,4.8,15.2,On Time
+ORD567,Little Caesars,"Tucson, AZ",03-05-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,1,May,18,22,Delayed
+ORD568,Marco's Pizza,"Fresno, CA",04-05-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,1,May,9.6,20.4,Delayed
+ORD569,Domino's,"Sacramento, CA",05-05-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,May,21.6,23.4,Delayed
+ORD570,Papa John's,"Milwaukee, WI",01-05-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,May,13.2,21.8,Delayed
+ORD571,Domino's,"New York, NY",07-05-2025,19:00:00,Slow,45,L,Thai Chicken,7,Medium,Card,1,0,May,16.8,28.2,Delayed
+ORD572,Papa John's,"Los Angeles, CA",08-05-2025,20:15:00,Slow,40,M,Sicilian,6.5,High,Wallet,1,0,May,15.6,24.4,Delayed
+ORD573,Pizza Hut,"Chicago, IL",09-05-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,May,6,14,On Time
+ORD574,Little Caesars,"Houston, TX",10-05-2025,19:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,1,May,19.2,20.8,Delayed
+ORD575,Marco's Pizza,"Phoenix, AZ",11-05-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,1,May,9.6,20.4,Delayed
+ORD576,Domino's,"Philadelphia, PA",12-05-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,May,21.6,23.4,Delayed
+ORD577,Papa John's,"San Antonio, TX",13-05-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,May,7.2,12.8,On Time
+ORD578,Pizza Hut,"San Diego, CA",14-05-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,May,14.4,15.6,On Time
+ORD579,Little Caesars,"Dallas, TX",15-05-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,May,19.2,20.8,Delayed
+ORD580,Marco's Pizza,"San Jose, CA",16-05-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,May,6,14,On Time
+ORD581,Domino's,"Austin, TX",17-05-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Domino's Cash,1,1,May,24,26,Delayed
+ORD582,Papa John's,"Jacksonville, FL",18-05-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,1,May,13.2,21.8,Delayed
+ORD583,Pizza Hut,"Fort Worth, TX",19-05-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,May,4.8,15.2,On Time
+ORD584,Little Caesars,"Columbus, OH",20-05-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,May,18,22,Delayed
+ORD585,Marco's Pizza,"Charlotte, NC",21-05-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,May,9.6,20.4,Delayed
+ORD586,Domino's,"San Francisco, CA",22-05-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,May,21.6,23.4,Delayed
+ORD587,Papa John's,"Indianapolis, IN",23-05-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,May,7.2,12.8,On Time
+ORD588,Pizza Hut,"Seattle, WA",24-05-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,1,May,14.4,15.6,On Time
+ORD589,Little Caesars,"Denver, CO",25-05-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,1,May,19.2,20.8,Delayed
+ORD590,Marco's Pizza,"Washington, DC",26-05-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,May,6,14,On Time
+ORD591,Domino's,"Boston, MA",27-05-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,May,24,26,Delayed
+ORD592,Papa John's,"El Paso, TX",28-05-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,May,13.2,21.8,Delayed
+ORD593,Pizza Hut,"Detroit, MI",29-05-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,May,4.8,15.2,On Time
+ORD594,Little Caesars,"Nashville, TN",30-05-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,May,18,22,Delayed
+ORD595,Marco's Pizza,"Memphis, TN",31-05-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,1,May,9.6,20.4,Delayed
+ORD596,Domino's,"Portland, OR",01-06-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,1,June,21.6,23.4,Delayed
+ORD597,Papa John's,"Oklahoma City, OK",02-06-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,June,7.2,12.8,On Time
+ORD598,Pizza Hut,"Las Vegas, NV",03-06-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,June,14.4,15.6,On Time
+ORD599,Little Caesars,"Atlanta, GA",04-06-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,June,19.2,20.8,Delayed
+ORD600,Marco's Pizza,"Miami, FL",05-06-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,June,6,14,On Time
+ORD601,Domino's,"New York, NY",06-06-2025,19:00:00,Slow,45,L,Thai Chicken,7,Medium,Card,1,0,June,16.8,28.2,Delayed
+ORD602,Papa John's,"Los Angeles, CA",07-06-2025,20:15:00,Slow,40,M,Sicilian,6.5,High,Wallet,1,1,June,15.6,24.4,Delayed
+ORD603,Pizza Hut,"Chicago, IL",08-06-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,June,6,14,On Time
+ORD604,Little Caesars,"Houston, TX",09-06-2025,19:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,June,19.2,20.8,Delayed
+ORD605,Marco's Pizza,"Phoenix, AZ",10-06-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,June,9.6,20.4,Delayed
+ORD606,Domino's,"Philadelphia, PA",11-06-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,0,June,21.6,23.4,Delayed
+ORD607,Papa John's,"San Antonio, TX",12-06-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,0,June,7.2,12.8,On Time
+ORD608,Pizza Hut,"San Diego, CA",13-06-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,June,14.4,15.6,On Time
+ORD609,Little Caesars,"Dallas, TX",14-06-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,1,June,19.2,20.8,Delayed
+ORD610,Marco's Pizza,"San Jose, CA",15-06-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,1,June,6,14,On Time
+ORD611,Domino's,"Austin, TX",16-06-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Domino's Cash,1,0,June,24,26,Delayed
+ORD612,Papa John's,"Jacksonville, FL",17-06-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,June,13.2,21.8,Delayed
+ORD613,Pizza Hut,"Fort Worth, TX",18-06-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,June,4.8,15.2,On Time
+ORD614,Little Caesars,"Columbus, OH",19-06-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,0,June,18,22,Delayed
+ORD615,Marco's Pizza,"Charlotte, NC",20-06-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,June,9.6,20.4,Delayed
+ORD616,Domino's,"San Francisco, CA",21-06-2025,20:15:00,Slow,45,L,Veg,9,High,Cash,1,1,June,21.6,23.4,Delayed
+ORD617,Papa John's,"Indianapolis, IN",22-06-2025,18:00:00,Fast,20,M,Veg,3,Low,Card,1,1,June,7.2,12.8,On Time
+ORD618,Pizza Hut,"Seattle, WA",23-06-2025,19:15:00,Average,30,L,Non-Veg,6,Medium,Wallet,1,0,June,14.4,15.6,On Time
+ORD619,Little Caesars,"Denver, CO",24-06-2025,20:30:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,June,19.2,20.8,Delayed
+ORD620,Marco's Pizza,"Washington, DC",25-06-2025,18:45:00,Fast,20,S,Vegan,2.5,Low,Cash,1,0,June,6,14,On Time
+ORD621,Domino's,"Boston, MA",26-06-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,June,24,26,Delayed
+ORD622,Papa John's,"El Paso, TX",27-06-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,June,13.2,21.8,Delayed
+ORD623,Pizza Hut,"Detroit, MI",28-06-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,1,June,4.8,15.2,On Time
+ORD624,Little Caesars,"Nashville, TN",29-06-2025,19:45:00,Slow,40,XL,Stuffed Crust,7.5,High,Card,1,1,June,18,22,Delayed
+ORD625,Domino's,"Austin, TX",15-06-2025,19:20:00,Average,35,L,Cheese Burst,5.4,Medium,Card,1,1,June,12.96,22.04,Delayed
+ORD626,Pizza Hut,"Miami, FL",15-06-2025,20:00:00,Average,30,M,Veg,4.1,Low,Wallet,1,1,June,9.84,20.16,Delayed
+ORD627,Little Caesars,"Atlanta, GA",15-06-2025,20:05:00,Slow,50,XL,Non-Veg,8.7,High,Cash,1,1,June,20.88,29.12,Delayed
+ORD628,Domino's,"Austin, TX",15-06-2025,21:00:00,Average,35,L,Cheese Burst,5.4,Medium,Card,1,1,June,12.96,22.04,Delayed
+ORD629,Papa John's,"Seattle, WA",16-06-2025,17:45:00,Average,25,M,Gluten-Free,3.9,Low,UPI,0,0,June,9.36,15.64,On Time
+ORD630,Pizza Hut,"Miami, FL",16-06-2025,18:30:00,Slow,40,L,Stuffed Crust,6,Medium,Wallet,1,0,June,14.4,25.6,Delayed
+ORD631,Domino's,"Phoenix, AZ",16-06-2025,19:00:00,Average,35,M,Veg,4.5,Medium,Hut Points,1,0,June,10.8,24.2,Delayed
+ORD632,Pizza Hut,"Dallas, TX",16-06-2025,20:15:00,Slow,45,L,Cheese Burst,7.2,High,Card,1,0,June,17.28,27.72,Delayed
+ORD633,Domino's,"Austin, TX",16-06-2025,21:10:00,Average,30,L,Cheese Burst,5.4,Medium,Cash,1,0,June,12.96,17.04,On Time
+ORD634,Little Caesars,"Chicago, IL",17-06-2025,18:10:00,Slow,40,XL,Sicilian,7.8,High,UPI,1,0,June,18.72,21.28,Delayed
+ORD635,Marco’s Pizza,"Tampa, FL",17-06-2025,19:15:00,Average,25,S,Thai Chicken,3.2,Medium,Card,1,0,June,7.68,17.32,On Time
+ORD636,Pizza Hut,"Miami, FL",17-06-2025,20:00:00,Average,30,M,Veg,4.1,Low,Wallet,1,0,June,9.84,20.16,Delayed
+ORD637,Papa John's,"San Diego, CA",18-06-2025,17:45:00,Slow,50,L,Non-Veg,8.3,High,Card,0,0,June,19.92,30.08,Delayed
+ORD638,Domino's,"Austin, TX",18-06-2025,19:05:00,Average,35,L,Cheese Burst,5.4,Medium,UPI,1,0,June,12.96,22.04,Delayed
+ORD639,Marco’s Pizza,"Charlotte, NC",18-06-2025,20:00:00,Average,25,M,Non-Veg,4,Low,Wallet,1,0,June,9.6,15.4,On Time
+ORD640,Pizza Hut,"Miami, FL",18-06-2025,21:00:00,Average,30,M,Veg,4.1,Low,Card,1,0,June,9.84,20.16,Delayed
+ORD641,Domino's,"Los Angeles, CA",19-06-2025,18:15:00,Slow,40,L,Cheese Burst,6.3,Medium,Cash,1,0,June,15.12,24.88,Delayed
+ORD642,Little Caesars,"Denver, CO",19-06-2025,19:10:00,Slow,45,XL,Vegan,7,High,Wallet,1,0,June,16.8,28.2,Delayed
+ORD643,Domino's,"Austin, TX",19-06-2025,20:00:00,Average,30,L,Cheese Burst,5.4,Medium,Card,1,0,June,12.96,17.04,On Time
+ORD644,Marco’s Pizza,"Tampa, FL",20-06-2025,18:10:00,Average,30,S,Thai Chicken,3.2,Medium,Cash,1,0,June,7.68,22.32,Delayed
+ORD645,Pizza Hut,"Dallas, TX",20-06-2025,19:00:00,Average,30,M,Stuffed Crust,5.8,Medium,Card,1,0,June,13.92,16.08,On Time
+ORD646,Domino's,"San Francisco, CA",21-07-2025,19:00:00,Slow,50,L,Non-Veg,10,High,Card,1,0,July,24,26,Delayed
+ORD647,Papa John's,"Indianapolis, IN",22-07-2025,20:00:00,Average,35,M,Gluten-Free,5.5,Medium,Wallet,1,0,July,13.2,21.8,Delayed
+ORD648,Pizza Hut,"Seattle, WA",23-07-2025,18:30:00,Fast,20,S,Vegan,2,Low,UPI,1,0,July,4.8,15.2,On Time
+ORD649,Little Caesars,"Denver, CO",24-07-2025,19:45:00,Slow,40,XL,Cheese Burst,8,High,Card,1,0,July,19.2,20.8,Delayed
+ORD650,Marco's Pizza,"Boston, MA",25-07-2025,18:15:00,Average,30,M,Thai Chicken,4,Medium,UPI,1,0,July,9.6,20.4,Delayed
+ORD651,Domino's,"Nashville, TN",26-07-2025,19:30:00,Slow,40,L,Sicilian,6.5,High,Cash,1,1,July,15.6,24.4,Delayed
+ORD652,Papa John's,"Detroit, MI",27-07-2025,20:45:00,Average,30,M,Veg,3.5,Low,Card,1,1,July,8.4,21.6,Delayed
+ORD653,Pizza Hut,"El Paso, TX",28-07-2025,18:00:00,Average,30,L,Non-Veg,5,Medium,Wallet,1,0,July,12,18,On Time
+ORD654,Little Caesars,"Washington, DC",29-07-2025,19:15:00,Slow,40,XL,Cheese Burst,7,High,Card,1,0,July,16.8,23.2,Delayed
+ORD655,Marco's Pizza,"Las Vegas, NV",30-07-2025,20:30:00,Average,30,M,Vegan,4,Medium,UPI,1,0,July,9.6,20.4,Delayed
+ORD656,Domino's,"Louisville, KY",31-07-2025,18:45:00,Slow,40,L,Non-Veg,6,High,Domino's Cash,1,0,July,14.4,25.6,Delayed
+ORD657,Papa John's,"Baltimore, MD",01-08-2025,20:00:00,Average,30,M,Gluten-Free,5,Medium,Wallet,1,0,August,12,18,On Time
+ORD658,Pizza Hut,"Milwaukee, WI",02-08-2025,18:30:00,Average,30,S,Vegan,3,Low,UPI,1,1,August,7.2,22.8,Delayed
+ORD659,Little Caesars,"Albuquerque, NM",03-08-2025,19:45:00,Slow,40,XL,Stuffed Crust,8,High,Card,1,1,August,19.2,20.8,Delayed
+ORD660,Marco's Pizza,"Tucson, AZ",04-08-2025,18:00:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,August,9.6,20.4,Delayed
+ORD661,Domino's,"Fresno, CA",05-08-2025,19:15:00,Slow,40,L,Veg,6,High,Cash,1,0,August,14.4,25.6,Delayed
+ORD662,Papa John's,"Sacramento, CA",06-08-2025,20:30:00,Average,30,M,Veg,3.5,Low,Card,1,0,August,8.4,21.6,Delayed
+ORD663,Pizza Hut,"Kansas City, MO",07-08-2025,18:45:00,Average,30,L,Non-Veg,5.5,Medium,Wallet,1,0,August,13.2,16.8,On Time
+ORD664,Little Caesars,"Mesa, AZ",08-08-2025,20:00:00,Slow,40,XL,Cheese Burst,7.5,High,Card,1,0,August,18,22,Delayed
+ORD665,Marco's Pizza,"Atlanta, GA",09-08-2025,18:15:00,Average,30,S,Vegan,2.5,Low,Cash,1,1,August,6,24,Delayed
+ORD666,Domino's,"Omaha, NE",10-08-2025,19:30:00,Slow,40,L,Non-Veg,6.5,High,Card,1,1,August,15.6,24.4,Delayed
+ORD667,Papa John's,"Raleigh, NC",11-08-2025,20:45:00,Average,30,M,Gluten-Free,5,Medium,Wallet,1,0,August,12,18,On Time
+ORD668,Pizza Hut,"Long Beach, CA",12-08-2025,18:00:00,Average,30,S,Vegan,3,Low,UPI,1,0,August,7.2,22.8,Delayed
+ORD669,Little Caesars,"Virginia Beach, VA",13-08-2025,19:15:00,Slow,40,XL,Cheese Burst,7,High,Card,1,0,August,16.8,23.2,Delayed
+ORD670,Marco's Pizza,"Oakland, CA",14-08-2025,20:30:00,Average,30,M,Non-Veg,4,Medium,UPI,1,0,August,9.6,20.4,Delayed
+ORD671,Domino's,"San Jose, CA",15-08-2025,19:00:00,Average,35,L,Cheese Burst,5,Medium,Card,1,0,August,12,23,Delayed
+ORD672,Pizza Hut,"Austin, TX",16-08-2025,18:30:00,Slow,40,M,Veg,6,High,Wallet,1,1,August,14.4,25.6,Delayed
+ORD673,Papa John's,"Columbus, OH",17-08-2025,20:00:00,Average,25,M,Gluten-Free,3.5,Low,UPI,1,1,August,8.4,16.6,On Time
+ORD674,Little Caesars,"Fort Worth, TX",18-08-2025,19:15:00,Slow,40,XL,Non-Veg,7,High,Cash,1,0,August,16.8,23.2,Delayed
+ORD675,Marco's Pizza,"Jacksonville, FL",19-08-2025,18:45:00,Average,30,M,Thai Chicken,4,Medium,Card,1,0,August,9.6,20.4,Delayed
+ORD676,Domino's,"Indianapolis, IN",20-08-2025,20:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,August,13.2,16.8,On Time
+ORD677,Pizza Hut,"Charlotte, NC",21-08-2025,19:00:00,Average,30,M,Veg,4,Low,Wallet,1,0,August,9.6,20.4,Delayed
+ORD678,Papa John's,"San Francisco, CA",22-08-2025,18:15:00,Average,35,M,Gluten-Free,5,Medium,Card,1,0,August,12,23,Delayed
+ORD679,Little Caesars,"Denver, CO",23-08-2025,20:00:00,Slow,45,XL,Cheese Burst,8,High,Cash,1,1,August,19.2,25.8,Delayed
+ORD680,Marco's Pizza,"Seattle, WA",24-08-2025,19:30:00,Average,30,M,Thai Chicken,4.5,Medium,UPI,1,1,August,10.8,19.2,On Time
+ORD681,Domino's,"Boston, MA",25-08-2025,18:00:00,Average,35,L,Non-Veg,6,Medium,Card,1,0,August,14.4,20.6,Delayed
+ORD682,Pizza Hut,"Detroit, MI",26-08-2025,19:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,August,9.6,20.4,Delayed
+ORD683,Papa John's,"Memphis, TN",27-08-2025,20:30:00,Average,30,M,Gluten-Free,5,Medium,UPI,1,0,August,12,18,On Time
+ORD684,Little Caesars,"Baltimore, MD",28-08-2025,18:45:00,Slow,40,XL,Cheese Burst,7.5,High,Card,1,0,August,18,22,Delayed
+ORD685,Marco's Pizza,"Nashville, TN",29-08-2025,19:00:00,Average,30,M,Thai Chicken,4,Medium,Cash,1,0,August,9.6,20.4,Delayed
+ORD686,Domino's,"Portland, OR",30-08-2025,20:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,August,13.2,16.8,On Time
+ORD687,Pizza Hut,"Oklahoma City, OK",31-08-2025,18:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,August,9.6,20.4,Delayed
+ORD688,Papa John's,"Las Vegas, NV",01-09-2025,19:45:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,September,12,18,On Time
+ORD689,Little Caesars,"Louisville, KY",02-09-2025,20:00:00,Slow,40,XL,Cheese Burst,8,High,UPI,1,0,September,19.2,20.8,Delayed
+ORD690,Marco's Pizza,"Milwaukee, WI",03-09-2025,18:15:00,Average,30,M,Thai Chicken,4,Medium,Card,1,0,September,9.6,20.4,Delayed
+ORD691,Domino's,"Albuquerque, NM",04-09-2025,19:30:00,Average,30,L,Non-Veg,6,Medium,Cash,1,0,September,14.4,15.6,On Time
+ORD692,Pizza Hut,"Tucson, AZ",05-09-2025,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,0,September,9.6,20.4,Delayed
+ORD693,Papa John's,"Fresno, CA",06-09-2025,18:00:00,Average,30,M,Gluten-Free,5,Medium,UPI,1,1,September,12,18,On Time
+ORD694,Little Caesars,"Sacramento, CA",07-09-2025,19:15:00,Slow,40,XL,Cheese Burst,7,High,Card,1,1,September,16.8,23.2,Delayed
+ORD695,Marco's Pizza,"Kansas City, MO",08-09-2025,20:30:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,0,September,10.8,19.2,On Time
+ORD696,Domino's,"Mesa, AZ",09-09-2025,18:45:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,September,13.2,16.8,On Time
+ORD697,Pizza Hut,"Atlanta, GA",10-09-2025,19:00:00,Average,30,M,Veg,4,Low,Wallet,1,0,September,9.6,20.4,Delayed
+ORD698,Papa John's,"Omaha, NE",11-09-2025,20:15:00,Average,30,M,Gluten-Free,5,Medium,UPI,1,0,September,12,18,On Time
+ORD699,Little Caesars,"Louisville, KY",12-09-2025,19:30:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,September,14.4,15.6,On Time
+ORD700,Marco's Pizza,"Milwaukee, WI",13-09-2025,18:45:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,1,September,10.8,19.2,On Time
+ORD701,Domino's,"Albuquerque, NM",14-09-2025,20:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,September,13.2,16.8,On Time
+ORD702,Pizza Hut,"Atlanta, GA",15-09-2025,19:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,September,9.6,20.4,Delayed
+ORD703,Papa John's,"Omaha, NE",16-09-2025,20:30:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,September,12,18,On Time
+ORD704,Little Caesars,"Louisville, KY",17-09-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,September,14.4,15.6,On Time
+ORD705,Marco's Pizza,"Milwaukee, WI",18-09-2025,18:00:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,0,September,10.8,19.2,On Time
+ORD706,Domino's,"Albuquerque, NM",19-09-2025,20:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,September,13.2,16.8,On Time
+ORD707,Pizza Hut,"Atlanta, GA",20-09-2025,19:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,September,9.6,20.4,Delayed
+ORD708,Papa John's,"Omaha, NE",21-09-2025,20:45:00,Average,30,M,Gluten-Free,5,Medium,Card,1,1,September,12,18,On Time
+ORD709,Little Caesars,"Louisville, KY",22-09-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,September,14.4,15.6,On Time
+ORD710,Marco's Pizza,"Milwaukee, WI",23-09-2025,18:15:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,0,September,10.8,19.2,On Time
+ORD711,Domino's,"Albuquerque, NM",24-09-2025,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,September,13.2,16.8,On Time
+ORD712,Pizza Hut,"Atlanta, GA",25-09-2025,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,0,September,9.6,20.4,Delayed
+ORD713,Papa John's,"Omaha, NE",26-09-2025,18:00:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,September,12,18,On Time
+ORD714,Little Caesars,"Louisville, KY",27-09-2025,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,September,14.4,15.6,On Time
+ORD715,Marco's Pizza,"Milwaukee, WI",28-09-2025,20:30:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,1,September,10.8,19.2,On Time
+ORD716,Domino's,"Albuquerque, NM",29-09-2025,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,September,13.2,16.8,On Time
+ORD717,Pizza Hut,"Atlanta, GA",30-09-2025,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,September,9.6,20.4,Delayed
+ORD718,Papa John's,"Omaha, NE",01-10-2025,18:30:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,October,12,18,On Time
+ORD719,Little Caesars,"Louisville, KY",02-10-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,October,14.4,15.6,On Time
+ORD720,Marco's Pizza,"Milwaukee, WI",03-10-2025,18:00:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,0,October,10.8,19.2,On Time
+ORD721,Domino's,"Albuquerque, NM",04-10-2025,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,October,13.2,16.8,On Time
+ORD722,Pizza Hut,"Atlanta, GA",05-10-2025,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,October,9.6,20.4,Delayed
+ORD723,Papa John's,"Omaha, NE",06-10-2025,18:45:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,October,12,18,On Time
+ORD724,Little Caesars,"Louisville, KY",07-10-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,October,14.4,15.6,On Time
+ORD725,Marco's Pizza,"Milwaukee, WI",08-10-2025,20:15:00,Average,30,M,Thai Chicken,4.5,Medium,UPI,1,0,October,10.8,19.2,On Time
+ORD726,Papa John's,"Omaha, NE",09-10-2025,20:30:00,Average,30,M,Gluten-Free,5,Medium,UPI,1,0,October,12,18,On Time
+ORD727,Little Caesars,"Louisville, KY",10-10-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,October,14.4,15.6,On Time
+ORD728,Marco's Pizza,"Milwaukee, WI",11-10-2025,18:00:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,1,October,10.8,19.2,On Time
+ORD729,Domino's,"Albuquerque, NM",12-10-2025,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,October,13.2,16.8,On Time
+ORD730,Pizza Hut,"Atlanta, GA",13-10-2025,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,October,9.6,20.4,Delayed
+ORD731,Papa John's,"Omaha, NE",14-10-2025,18:45:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,October,12,18,On Time
+ORD732,Little Caesars,"Louisville, KY",15-10-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,October,14.4,15.6,On Time
+ORD733,Marco's Pizza,"Milwaukee, WI",16-10-2025,20:15:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,0,October,10.8,19.2,On Time
+ORD734,Domino's,"Albuquerque, NM",17-10-2025,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,October,13.2,16.8,On Time
+ORD735,Pizza Hut,"Atlanta, GA",18-10-2025,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,1,October,9.6,20.4,Delayed
+ORD736,Papa John's,"Omaha, NE",19-10-2025,18:00:00,Average,30,M,Gluten-Free,5,Medium,Card,1,1,October,12,18,On Time
+ORD737,Little Caesars,"Louisville, KY",20-10-2025,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,October,14.4,15.6,On Time
+ORD738,Marco's Pizza,"Milwaukee, WI",21-10-2025,20:30:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,0,October,10.8,19.2,On Time
+ORD739,Domino's,"Albuquerque, NM",22-10-2025,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,October,13.2,16.8,On Time
+ORD740,Pizza Hut,"Atlanta, GA",23-10-2025,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,October,9.6,20.4,Delayed
+ORD741,Papa John's,"Omaha, NE",24-10-2025,18:30:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,October,12,18,On Time
+ORD742,Little Caesars,"Louisville, KY",25-10-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,October,14.4,15.6,On Time
+ORD743,Marco's Pizza,"Milwaukee, WI",26-10-2025,18:00:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,1,October,10.8,19.2,On Time
+ORD744,Domino's,"Albuquerque, NM",27-10-2025,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,October,13.2,16.8,On Time
+ORD745,Pizza Hut,"Atlanta, GA",28-10-2025,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,October,9.6,20.4,Delayed
+ORD746,Papa John's,"Omaha, NE",29-10-2025,18:45:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,October,12,18,On Time
+ORD747,Little Caesars,"Louisville, KY",30-10-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,October,14.4,15.6,On Time
+ORD748,Marco's Pizza,"Milwaukee, WI",31-10-2025,20:15:00,Average,30,M,Thai Chicken,4.5,Medium,Cash,1,0,October,10.8,19.2,On Time
+ORD749,Domino's,"Albuquerque, NM",01-11-2025,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,November,13.2,16.8,On Time
+ORD750,Pizza Hut,"Atlanta, GA",02-11-2025,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,1,November,9.6,20.4,Delayed
+ORD751,Papa John's,"Omaha, NE",03-11-2025,18:00:00,Average,30,M,Gluten-Free,5,Medium,Card,1,0,November,12,18,On Time
+ORD752,Little Caesars,"Louisville, KY",04-11-2025,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,November,14.4,15.6,On Time
+ORD753,Marco's Pizza,"Milwaukee, WI",05-11-2025,20:30:00,Average,30,M,Thai Chicken,4.5,Medium,UPI,1,0,November,10.8,19.2,On Time
+ORD754,Papa John's,"Omaha, NE",06-11-2025,18:45:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,November,12,18,On Time
+ORD755,Little Caesars,"Louisville, KY",07-11-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,November,14.4,15.6,On Time
+ORD756,Marco's Pizza,"Milwaukee, WI",08-11-2025,20:15:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,November,10.8,19.2,On Time
+ORD757,Domino's,"Albuquerque, NM",09-11-2025,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,November,13.2,16.8,On Time
+ORD758,Pizza Hut,"Atlanta, GA",10-11-2025,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,0,November,9.6,20.4,Delayed
+ORD759,Papa John's,"Omaha, NE",11-11-2025,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,November,12,18,On Time
+ORD760,Little Caesars,"Louisville, KY",12-11-2025,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,November,14.4,15.6,On Time
+ORD761,Marco's Pizza,"Milwaukee, WI",13-11-2025,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,November,10.8,19.2,On Time
+ORD762,Domino's,"Albuquerque, NM",14-11-2025,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,November,13.2,16.8,On Time
+ORD763,Pizza Hut,"Atlanta, GA",15-11-2025,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,November,9.6,20.4,Delayed
+ORD764,Papa John's,"Omaha, NE",16-11-2025,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,November,12,18,On Time
+ORD765,Little Caesars,"Louisville, KY",17-11-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,November,14.4,15.6,On Time
+ORD766,Marco's Pizza,"Milwaukee, WI",18-11-2025,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,November,10.8,19.2,On Time
+ORD767,Domino's,"Albuquerque, NM",19-11-2025,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,November,13.2,16.8,On Time
+ORD768,Pizza Hut,"Atlanta, GA",20-11-2025,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,November,9.6,20.4,Delayed
+ORD769,Papa John's,"Omaha, NE",21-11-2025,18:45:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,November,12,18,On Time
+ORD770,Little Caesars,"Louisville, KY",22-11-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,November,14.4,15.6,On Time
+ORD771,Marco's Pizza,"Milwaukee, WI",23-11-2025,20:15:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,November,10.8,19.2,On Time
+ORD772,Domino's,"Albuquerque, NM",24-11-2025,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,November,13.2,16.8,On Time
+ORD773,Pizza Hut,"Atlanta, GA",25-11-2025,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,0,November,9.6,20.4,Delayed
+ORD774,Papa John's,"Omaha, NE",26-11-2025,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,November,12,18,On Time
+ORD775,Little Caesars,"Louisville, KY",27-11-2025,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,November,14.4,15.6,On Time
+ORD776,Marco's Pizza,"Milwaukee, WI",28-11-2025,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,November,10.8,19.2,On Time
+ORD777,Domino's,"Albuquerque, NM",29-11-2025,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,November,13.2,16.8,On Time
+ORD778,Pizza Hut,"Atlanta, GA",30-11-2025,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,November,9.6,20.4,Delayed
+ORD779,Papa John's,"Omaha, NE",01-12-2025,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,December,12,18,On Time
+ORD780,Little Caesars,"Louisville, KY",02-12-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,December,14.4,15.6,On Time
+ORD781,Marco's Pizza,"Milwaukee, WI",03-12-2025,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,December,10.8,19.2,On Time
+ORD782,Papa John's,"Omaha, NE",04-12-2025,18:15:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,December,12,18,On Time
+ORD783,Little Caesars,"Louisville, KY",05-12-2025,19:30:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,December,14.4,15.6,On Time
+ORD784,Marco's Pizza,"Milwaukee, WI",06-12-2025,20:45:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,December,10.8,19.2,On Time
+ORD785,Domino's,"Albuquerque, NM",07-12-2025,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,December,13.2,16.8,On Time
+ORD786,Pizza Hut,"Atlanta, GA",08-12-2025,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,December,9.6,20.4,Delayed
+ORD787,Papa John's,"Omaha, NE",09-12-2025,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,December,12,18,On Time
+ORD788,Little Caesars,"Louisville, KY",10-12-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,December,14.4,15.6,On Time
+ORD789,Marco's Pizza,"Milwaukee, WI",11-12-2025,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,December,10.8,19.2,On Time
+ORD790,Domino's,"Albuquerque, NM",12-12-2025,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,December,13.2,16.8,On Time
+ORD791,Pizza Hut,"Atlanta, GA",13-12-2025,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,December,9.6,20.4,Delayed
+ORD792,Papa John's,"Omaha, NE",14-12-2025,18:45:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,December,12,18,On Time
+ORD793,Little Caesars,"Louisville, KY",15-12-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,December,14.4,15.6,On Time
+ORD794,Marco's Pizza,"Milwaukee, WI",16-12-2025,20:15:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,December,10.8,19.2,On Time
+ORD795,Domino's,"Albuquerque, NM",17-12-2025,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,December,13.2,16.8,On Time
+ORD796,Pizza Hut,"Atlanta, GA",18-12-2025,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,0,December,9.6,20.4,Delayed
+ORD797,Papa John's,"Omaha, NE",19-12-2025,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,December,12,18,On Time
+ORD798,Little Caesars,"Louisville, KY",20-12-2025,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,December,14.4,15.6,On Time
+ORD799,Marco's Pizza,"Milwaukee, WI",21-12-2025,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,December,10.8,19.2,On Time
+ORD800,Domino's,"Albuquerque, NM",22-12-2025,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,December,13.2,16.8,On Time
+ORD801,Pizza Hut,"Atlanta, GA",23-12-2025,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,December,9.6,20.4,Delayed
+ORD802,Papa John's,"Omaha, NE",24-12-2025,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,December,12,18,On Time
+ORD803,Little Caesars,"Louisville, KY",25-12-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,December,14.4,15.6,On Time
+ORD804,Marco's Pizza,"Milwaukee, WI",26-12-2025,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,December,10.8,19.2,On Time
+ORD805,Domino's,"Albuquerque, NM",27-12-2025,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,December,13.2,16.8,On Time
+ORD806,Pizza Hut,"Atlanta, GA",28-12-2025,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,December,9.6,20.4,Delayed
+ORD807,Papa John's,"Omaha, NE",29-12-2025,18:45:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,December,12,18,On Time
+ORD808,Little Caesars,"Louisville, KY",30-12-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,December,14.4,15.6,On Time
+ORD809,Marco's Pizza,"Milwaukee, WI",31-12-2025,20:15:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,December,10.8,19.2,On Time
+ORD810,Papa John's,"Omaha, NE",24-12-2025,18:30:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,December,12,18,On Time
+ORD811,Little Caesars,"Louisville, KY",25-12-2025,19:45:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,December,14.4,15.6,On Time
+ORD812,Marco's Pizza,"Milwaukee, WI",26-12-2025,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,December,10.8,19.2,On Time
+ORD813,Domino's,"Albuquerque, NM",27-12-2025,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,December,13.2,16.8,On Time
+ORD814,Pizza Hut,"Atlanta, GA",28-12-2025,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,December,9.6,20.4,Delayed
+ORD815,Papa John's,"Omaha, NE",29-12-2025,18:45:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,December,12,18,On Time
+ORD816,Little Caesars,"Louisville, KY",30-12-2025,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,December,14.4,15.6,On Time
+ORD817,Marco's Pizza,"Milwaukee, WI",31-12-2025,20:15:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,December,10.8,19.2,On Time
+ORD818,Domino's,"Albuquerque, NM",01-01-2026,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,January,13.2,16.8,On Time
+ORD819,Pizza Hut,"Atlanta, GA",02-01-2026,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,0,January,9.6,20.4,Delayed
+ORD820,Papa John's,"Omaha, NE",03-01-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,January,12,18,On Time
+ORD821,Little Caesars,"Louisville, KY",04-01-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,January,14.4,15.6,On Time
+ORD822,Marco's Pizza,"Milwaukee, WI",05-01-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,January,10.8,19.2,On Time
+ORD823,Domino's,"Albuquerque, NM",06-01-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,January,13.2,16.8,On Time
+ORD824,Pizza Hut,"Atlanta, GA",07-01-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,January,9.6,20.4,Delayed
+ORD825,Papa John's,"Omaha, NE",08-01-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,January,12,18,On Time
+ORD826,Little Caesars,"Louisville, KY",09-01-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,January,14.4,15.6,On Time
+ORD827,Marco's Pizza,"Milwaukee, WI",10-01-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,January,10.8,19.2,On Time
+ORD828,Domino's,"Albuquerque, NM",11-01-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,January,13.2,16.8,On Time
+ORD829,Pizza Hut,"Atlanta, GA",12-01-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,January,9.6,20.4,Delayed
+ORD830,Papa John's,"Omaha, NE",13-01-2026,18:45:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,January,12,18,On Time
+ORD831,Little Caesars,"Louisville, KY",14-01-2026,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,January,14.4,15.6,On Time
+ORD832,Marco's Pizza,"Milwaukee, WI",15-01-2026,20:15:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,January,10.8,19.2,On Time
+ORD833,Domino's,"Albuquerque, NM",16-01-2026,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,January,13.2,16.8,On Time
+ORD834,Pizza Hut,"Atlanta, GA",17-01-2026,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,1,January,9.6,20.4,Delayed
+ORD835,Papa John's,"Omaha, NE",18-01-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,January,12,18,On Time
+ORD836,Little Caesars,"Louisville, KY",19-01-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,January,14.4,15.6,On Time
+ORD837,Marco's Pizza,"Milwaukee, WI",20-01-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,January,10.8,19.2,On Time
+ORD838,Papa John's,"Omaha, NE",21-01-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,January,12,18,On Time
+ORD839,Little Caesars,"Louisville, KY",22-01-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,January,14.4,15.6,On Time
+ORD840,Marco's Pizza,"Milwaukee, WI",23-01-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,January,10.8,19.2,On Time
+ORD841,Domino's,"Albuquerque, NM",24-01-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,January,13.2,16.8,On Time
+ORD842,Pizza Hut,"Atlanta, GA",25-01-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,January,9.6,20.4,Delayed
+ORD843,Papa John's,"Omaha, NE",26-01-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,January,12,18,On Time
+ORD844,Little Caesars,"Louisville, KY",27-01-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,January,14.4,15.6,On Time
+ORD845,Marco's Pizza,"Milwaukee, WI",28-01-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,January,10.8,19.2,On Time
+ORD846,Domino's,"Albuquerque, NM",29-01-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,January,13.2,16.8,On Time
+ORD847,Pizza Hut,"Atlanta, GA",30-01-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,January,9.6,20.4,Delayed
+ORD848,Papa John's,"Omaha, NE",31-01-2026,18:45:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,January,12,18,On Time
+ORD849,Little Caesars,"Louisville, KY",01-02-2026,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,February,14.4,15.6,On Time
+ORD850,Marco's Pizza,"Milwaukee, WI",02-02-2026,20:15:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,February,10.8,19.2,On Time
+ORD851,Domino's,"Albuquerque, NM",03-02-2026,19:30:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,February,13.2,16.8,On Time
+ORD852,Pizza Hut,"Atlanta, GA",04-02-2026,20:45:00,Average,30,M,Veg,4,Low,Wallet,1,0,February,9.6,20.4,Delayed
+ORD853,Papa John's,"Omaha, NE",05-02-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,February,12,18,On Time
+ORD854,Little Caesars,"Louisville, KY",06-02-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,February,14.4,15.6,On Time
+ORD855,Marco's Pizza,"Milwaukee, WI",07-02-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,February,10.8,19.2,On Time
+ORD856,Domino's,"Albuquerque, NM",08-02-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,February,13.2,16.8,On Time
+ORD857,Pizza Hut,"Atlanta, GA",09-02-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,February,9.6,20.4,Delayed
+ORD858,Papa John's,"Omaha, NE",10-02-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,February,12,18,On Time
+ORD859,Little Caesars,"Louisville, KY",11-02-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,February,14.4,15.6,On Time
+ORD860,Marco's Pizza,"Milwaukee, WI",12-02-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,February,10.8,19.2,On Time
+ORD861,Domino's,"Albuquerque, NM",13-02-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,February,13.2,16.8,On Time
+ORD862,Pizza Hut,"Atlanta, GA",14-02-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,February,9.6,20.4,Delayed
+ORD863,Papa John's,"Omaha, NE",15-02-2026,18:45:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,February,12,18,On Time
+ORD864,Little Caesars,"Louisville, KY",16-02-2026,19:00:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,February,14.4,15.6,On Time
+ORD865,Marco's Pizza,"Milwaukee, WI",17-02-2026,20:15:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,February,10.8,19.2,On Time
+ORD866,Papa John's,"Omaha, NE",18-02-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,February,12,18,On Time
+ORD867,Little Caesars,"Louisville, KY",19-02-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,February,14.4,15.6,On Time
+ORD868,Marco's Pizza,"Milwaukee, WI",20-02-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,February,10.8,19.2,On Time
+ORD869,Domino's,"Albuquerque, NM",21-02-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,February,13.2,16.8,On Time
+ORD870,Pizza Hut,"Atlanta, GA",22-02-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,February,9.6,20.4,Delayed
+ORD871,Papa John's,"Omaha, NE",23-02-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,February,12,18,On Time
+ORD872,Little Caesars,"Louisville, KY",24-02-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,February,14.4,15.6,On Time
+ORD873,Marco's Pizza,"Milwaukee, WI",25-02-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,February,10.8,19.2,On Time
+ORD874,Domino's,"Albuquerque, NM",26-02-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,February,13.2,16.8,On Time
+ORD875,Pizza Hut,"Atlanta, GA",27-02-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,February,9.6,20.4,Delayed
+ORD876,Papa John's,"Omaha, NE",28-02-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,February,12,18,On Time
+ORD877,Little Caesars,"Louisville, KY",01-03-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,March,14.4,15.6,On Time
+ORD878,Marco's Pizza,"Milwaukee, WI",02-03-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,March,10.8,19.2,On Time
+ORD879,Domino's,"Albuquerque, NM",03-03-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,March,13.2,16.8,On Time
+ORD880,Pizza Hut,"Atlanta, GA",04-03-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,March,9.6,20.4,Delayed
+ORD881,Papa John's,"Omaha, NE",05-03-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,March,12,18,On Time
+ORD882,Little Caesars,"Louisville, KY",06-03-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,March,14.4,15.6,On Time
+ORD883,Marco's Pizza,"Milwaukee, WI",07-03-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,March,10.8,19.2,On Time
+ORD884,Domino's,"Albuquerque, NM",08-03-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,March,13.2,16.8,On Time
+ORD885,Pizza Hut,"Atlanta, GA",09-03-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,March,9.6,20.4,Delayed
+ORD886,Papa John's,"Omaha, NE",10-03-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,March,12,18,On Time
+ORD887,Little Caesars,"Louisville, KY",11-03-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,March,14.4,15.6,On Time
+ORD888,Marco's Pizza,"Milwaukee, WI",12-03-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,March,10.8,19.2,On Time
+ORD889,Domino's,"Albuquerque, NM",13-03-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,March,13.2,16.8,On Time
+ORD890,Pizza Hut,"Atlanta, GA",14-03-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,1,March,9.6,20.4,Delayed
+ORD891,Papa John's,"Omaha, NE",15-03-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,March,12,18,On Time
+ORD892,Little Caesars,"Louisville, KY",16-03-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,March,14.4,15.6,On Time
+ORD893,Marco's Pizza,"Milwaukee, WI",17-03-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,March,10.8,19.2,On Time
+ORD894,Papa John's,"Omaha, NE",18-03-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,March,12,18,On Time
+ORD895,Little Caesars,"Louisville, KY",19-03-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,March,14.4,15.6,On Time
+ORD896,Marco's Pizza,"Milwaukee, WI",20-03-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,March,10.8,19.2,On Time
+ORD897,Domino's,"Albuquerque, NM",21-03-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,March,13.2,16.8,On Time
+ORD898,Pizza Hut,"Atlanta, GA",22-03-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,March,9.6,20.4,Delayed
+ORD899,Papa John's,"Omaha, NE",23-03-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,March,12,18,On Time
+ORD900,Little Caesars,"Louisville, KY",24-03-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,March,14.4,15.6,On Time
+ORD901,Marco's Pizza,"Milwaukee, WI",25-03-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,March,10.8,19.2,On Time
+ORD902,Domino's,"Albuquerque, NM",26-03-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,March,13.2,16.8,On Time
+ORD903,Pizza Hut,"Atlanta, GA",27-03-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,March,9.6,20.4,Delayed
+ORD904,Papa John's,"Omaha, NE",28-03-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,March,12,18,On Time
+ORD905,Little Caesars,"Louisville, KY",29-03-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,March,14.4,15.6,On Time
+ORD906,Marco's Pizza,"Milwaukee, WI",30-03-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,March,10.8,19.2,On Time
+ORD907,Domino's,"Albuquerque, NM",31-03-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,March,13.2,16.8,On Time
+ORD908,Pizza Hut,"Atlanta, GA",01-04-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,April,9.6,20.4,Delayed
+ORD909,Papa John's,"Omaha, NE",02-04-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,April,12,18,On Time
+ORD910,Little Caesars,"Louisville, KY",03-04-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,April,14.4,15.6,On Time
+ORD911,Marco's Pizza,"Milwaukee, WI",04-04-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,April,10.8,19.2,On Time
+ORD912,Domino's,"Albuquerque, NM",05-04-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,April,13.2,16.8,On Time
+ORD913,Pizza Hut,"Atlanta, GA",06-04-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,April,9.6,20.4,Delayed
+ORD914,Papa John's,"Omaha, NE",07-04-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,April,12,18,On Time
+ORD915,Little Caesars,"Louisville, KY",08-04-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,April,14.4,15.6,On Time
+ORD916,Marco's Pizza,"Milwaukee, WI",09-04-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,April,10.8,19.2,On Time
+ORD917,Domino's,"Albuquerque, NM",10-04-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,April,13.2,16.8,On Time
+ORD918,Pizza Hut,"Atlanta, GA",11-04-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,April,9.6,20.4,Delayed
+ORD919,Papa John's,"Omaha, NE",12-04-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,April,12,18,On Time
+ORD920,Little Caesars,"Louisville, KY",13-04-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,April,14.4,15.6,On Time
+ORD921,Marco's Pizza,"Milwaukee, WI",14-04-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,April,10.8,19.2,On Time
+ORD922,Papa John's,"Omaha, NE",15-04-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,April,12,18,On Time
+ORD923,Little Caesars,"Louisville, KY",16-04-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,April,14.4,15.6,On Time
+ORD924,Marco's Pizza,"Milwaukee, WI",17-04-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,April,10.8,19.2,On Time
+ORD925,Domino's,"Albuquerque, NM",18-04-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,April,13.2,16.8,On Time
+ORD926,Pizza Hut,"Atlanta, GA",19-04-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,April,9.6,20.4,Delayed
+ORD927,Papa John's,"Omaha, NE",20-04-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,April,12,18,On Time
+ORD928,Little Caesars,"Louisville, KY",21-04-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,April,14.4,15.6,On Time
+ORD929,Marco's Pizza,"Milwaukee, WI",22-04-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,April,10.8,19.2,On Time
+ORD930,Domino's,"Albuquerque, NM",23-04-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,April,13.2,16.8,On Time
+ORD931,Pizza Hut,"Atlanta, GA",24-04-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,April,9.6,20.4,Delayed
+ORD932,Papa John's,"Omaha, NE",25-04-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,April,12,18,On Time
+ORD933,Little Caesars,"Louisville, KY",26-04-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,1,April,14.4,15.6,On Time
+ORD934,Marco's Pizza,"Milwaukee, WI",27-04-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,April,10.8,19.2,On Time
+ORD935,Domino's,"Albuquerque, NM",28-04-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,April,13.2,16.8,On Time
+ORD936,Pizza Hut,"Atlanta, GA",29-04-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,April,9.6,20.4,Delayed
+ORD937,Papa John's,"Omaha, NE",30-04-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,April,12,18,On Time
+ORD938,Little Caesars,"Louisville, KY",01-05-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,May,14.4,15.6,On Time
+ORD939,Marco's Pizza,"Milwaukee, WI",02-05-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,May,10.8,19.2,On Time
+ORD940,Domino's,"Albuquerque, NM",03-05-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,May,13.2,16.8,On Time
+ORD941,Pizza Hut,"Atlanta, GA",04-05-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,May,9.6,20.4,Delayed
+ORD942,Papa John's,"Omaha, NE",05-05-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,May,12,18,On Time
+ORD943,Little Caesars,"Louisville, KY",06-05-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,May,14.4,15.6,On Time
+ORD944,Marco's Pizza,"Milwaukee, WI",07-05-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,May,10.8,19.2,On Time
+ORD945,Domino's,"Albuquerque, NM",08-05-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,May,13.2,16.8,On Time
+ORD946,Pizza Hut,"Atlanta, GA",09-05-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,May,9.6,20.4,Delayed
+ORD947,Papa John's,"Omaha, NE",10-05-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,May,12,18,On Time
+ORD948,Little Caesars,"Louisville, KY",11-05-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,May,14.4,15.6,On Time
+ORD949,Marco's Pizza,"Milwaukee, WI",12-05-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,May,10.8,19.2,On Time
+ORD950,Papa John's,"Omaha, NE",13-05-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,May,12,18,On Time
+ORD951,Little Caesars,"Louisville, KY",14-05-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,May,14.4,15.6,On Time
+ORD952,Marco's Pizza,"Milwaukee, WI",15-05-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,May,10.8,19.2,On Time
+ORD953,Domino's,"Albuquerque, NM",16-05-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,May,13.2,16.8,On Time
+ORD954,Pizza Hut,"Atlanta, GA",17-05-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,May,9.6,20.4,Delayed
+ORD955,Papa John's,"Omaha, NE",18-05-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,May,12,18,On Time
+ORD956,Little Caesars,"Louisville, KY",19-05-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,May,14.4,15.6,On Time
+ORD957,Marco's Pizza,"Milwaukee, WI",20-05-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,May,10.8,19.2,On Time
+ORD958,Domino's,"Albuquerque, NM",21-05-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,May,13.2,16.8,On Time
+ORD959,Pizza Hut,"Atlanta, GA",22-05-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,May,9.6,20.4,Delayed
+ORD960,Papa John's,"Omaha, NE",23-05-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,1,May,12,18,On Time
+ORD961,Little Caesars,"Louisville, KY",24-05-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,1,May,14.4,15.6,On Time
+ORD962,Marco's Pizza,"Milwaukee, WI",25-05-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,May,10.8,19.2,On Time
+ORD963,Domino's,"Albuquerque, NM",26-05-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,May,13.2,16.8,On Time
+ORD964,Pizza Hut,"Atlanta, GA",27-05-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,May,9.6,20.4,Delayed
+ORD965,Papa John's,"Omaha, NE",28-05-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,May,12,18,On Time
+ORD966,Little Caesars,"Louisville, KY",29-05-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,May,14.4,15.6,On Time
+ORD967,Marco's Pizza,"Milwaukee, WI",30-05-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,May,10.8,19.2,On Time
+ORD968,Domino's,"Albuquerque, NM",31-05-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,May,13.2,16.8,On Time
+ORD969,Pizza Hut,"Atlanta, GA",01-06-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,June,9.6,20.4,Delayed
+ORD970,Papa John's,"Omaha, NE",02-06-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,June,12,18,On Time
+ORD971,Little Caesars,"Louisville, KY",03-06-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,June,14.4,15.6,On Time
+ORD972,Marco's Pizza,"Milwaukee, WI",04-06-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,June,10.8,19.2,On Time
+ORD973,Domino's,"Albuquerque, NM",05-06-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,June,13.2,16.8,On Time
+ORD974,Pizza Hut,"Atlanta, GA",06-06-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,June,9.6,20.4,Delayed
+ORD975,Papa John's,"Omaha, NE",07-06-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,June,12,18,On Time
+ORD976,Little Caesars,"Louisville, KY",08-06-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,June,14.4,15.6,On Time
+ORD977,Marco's Pizza,"Milwaukee, WI",09-06-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,June,10.8,19.2,On Time
+ORD978,Papa John's,"Omaha, NE",10-06-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,June,12,18,On Time
+ORD979,Little Caesars,"Louisville, KY",11-06-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,June,14.4,15.6,On Time
+ORD980,Marco's Pizza,"Milwaukee, WI",12-06-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,June,10.8,19.2,On Time
+ORD981,Domino's,"Albuquerque, NM",13-06-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,June,13.2,16.8,On Time
+ORD982,Pizza Hut,"Atlanta, GA",14-06-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,June,9.6,20.4,Delayed
+ORD983,Papa John's,"Omaha, NE",15-06-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,June,12,18,On Time
+ORD984,Little Caesars,"Louisville, KY",16-06-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,June,14.4,15.6,On Time
+ORD985,Marco's Pizza,"Milwaukee, WI",17-06-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,June,10.8,19.2,On Time
+ORD986,Domino's,"Albuquerque, NM",18-06-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,June,13.2,16.8,On Time
+ORD987,Pizza Hut,"Atlanta, GA",19-06-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,June,9.6,20.4,Delayed
+ORD988,Papa John's,"Omaha, NE",20-06-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,1,June,12,18,On Time
+ORD989,Little Caesars,"Louisville, KY",21-06-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,1,June,14.4,15.6,On Time
+ORD990,Marco's Pizza,"Milwaukee, WI",22-06-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,June,10.8,19.2,On Time
+ORD991,Domino's,"Albuquerque, NM",23-06-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,June,13.2,16.8,On Time
+ORD992,Pizza Hut,"Atlanta, GA",24-06-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,0,June,9.6,20.4,Delayed
+ORD993,Papa John's,"Omaha, NE",25-06-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,0,June,12,18,On Time
+ORD994,Little Caesars,"Louisville, KY",26-06-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,June,14.4,15.6,On Time
+ORD995,Marco's Pizza,"Milwaukee, WI",27-06-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,Cash,1,1,June,10.8,19.2,On Time
+ORD996,Domino's,"Albuquerque, NM",28-06-2026,19:15:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,1,June,13.2,16.8,On Time
+ORD997,Pizza Hut,"Atlanta, GA",29-06-2026,20:30:00,Average,30,M,Veg,4,Low,Wallet,1,0,June,9.6,20.4,Delayed
+ORD998,Papa John's,"Omaha, NE",30-06-2026,18:00:00,Average,30,M,BBQ Chicken,5,Medium,UPI,1,0,June,12,18,On Time
+ORD999,Little Caesars,"Louisville, KY",01-07-2026,19:15:00,Average,30,XL,Cheese Burst,6,High,Card,1,0,July,14.4,15.6,On Time
+ORD1000,Marco's Pizza,"Milwaukee, WI",02-07-2026,20:30:00,Average,30,M,Margarita,4.5,Medium,Cash,1,0,July,10.8,19.2,On Time
+ORD1001,Domino's,"Albuquerque, NM",03-07-2026,19:00:00,Average,30,L,Sicilian,5.5,Medium,UPI,1,0,July,13.2,16.8,On Time
+ORD1002,Pizza Hut,"Atlanta, GA",04-07-2026,20:15:00,Average,30,M,Veg,4,Low,Wallet,1,1,July,9.6,20.4,Delayed
+ORD1003,Papa John's,"Omaha, NE",05-07-2026,18:30:00,Average,30,M,BBQ Chicken,5,Medium,Card,1,1,July,12,18,On Time
+ORD1004,Little Caesars,"Louisville, KY",06-07-2026,19:45:00,Average,30,XL,Cheese Burst,6,High,UPI,1,0,July,14.4,15.6,On Time
+ORD1005,Marco's Pizza,"Milwaukee, WI",07-07-2026,20:00:00,Average,30,M,Margarita,4.5,Medium,UPI,1,0,July,10.8,19.2,On Time
