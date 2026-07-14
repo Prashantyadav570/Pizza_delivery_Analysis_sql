@@ -141,12 +141,6 @@ SQL-Pizza-Delivery-Analysis
 │   ├── 07_Window_Functions.sql
 │   └── 08_CTE_Subqueries.sql
 │
-├── Query Outputs
-│   ├── Query_01.png
-│   ├── Query_02.png
-│   ├── Query_03.png
-│   └── ...
-│
 └── README.md
 ```
 
