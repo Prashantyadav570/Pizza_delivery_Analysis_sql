@@ -187,7 +187,7 @@ SQL-Pizza-Delivery-Analysis
 
 Aspiring Data Analyst
 
-- **LinkedIn:** *(Add your LinkedIn profile here)*
+- **LinkedIn:** *https://www.linkedin.com/in/prashanttyadav/*
 - **GitHub:** *https://github.com/Prashantyadav570*
 
 ---
